@@ -1,0 +1,798 @@
+{
+    "3": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=3",
+        "stops": ["Michael Zavou", "Agiou Epiktitou", "Agiou Epiktitou - Commercial Center", "Kokkinoyias - Park", "Kokkinoyias - Stop 2", "Charalampou Evagorou - Cemetery", "Charalampou Evagorou - Stop 2", "Charalampou Evagorou - Gefsi", "Anikodomiseos - Sinikismos Agiou Athanasiou", "Anikodomiseos - Bank Of Cyprus", "Anikodomiseos - SPE Agiou Athanasiou", "Anikodomiseos - Old Municipality Square", "Christoforou Savva", "Niremvergis", "Sfalangiotissis - Stop 1", "Sfalangiotissis - Stop 2", "Sfalangiotissis - Stop 3", "Sfalangiotissis - Stop 4", "Mersinakiou", "Othellou", "Katinas Paxinou - Grammar School", "Katinas Paxinou - Stop 2", "G. Kalogeropoulou - Drousiotis Bros", "G. Kalogeropoulou - Mini Football", "Archbishop Makariou C' - Ap. Andrea Church", "Archbishop Makariou C' - Galactica", "Archbishop Makariou C' - Melis", "Archbishop Makariou C' - Sinergatiko Tamieftirio", "Archbishop Makariou C' - Tseriotis Fruit market", "Agias Zonis 1", "Agias Zonis 2", "Gladstonos - Pentadromos", "Gladstonos - B' Elementary School", "Gladstonos - Neon Phaliron", "Griva Digeni - Kalogries", "Archbishop Makariou C' - Eftapato", "Archbishop Makariou C' - Costa Cafe"]
+    },
+    "4": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=5",
+        "stops": ["Department of Road Transportation", "Vrasida - Ekalis Gymnasium", "Kilikias", "Lykavittou - Stop 1", "Lykavittou - Park", "Axiou - Stop 1", "Axiou - Stop 2", "Domnitsas Kavounidou - Agios Arsenios", "Pavlou Liasidi", "Goyia - Park", "Kamelias - Stop 1", "Kamelias - Stop 2", "Kamelias - Stop 3", "Kamelias - Stop 4", "Giannou Kranidioti - Karseras", "Agios Georgios Havouzas Church", "Christofi Ergatoudi - Stop 2", "Titanon - Stop 1", "Titanon - Stop 2", "Vasileos Constantinou - Tsirio", "Vasileos Constantinou - Morfi clinic", "Ivikou", "Vasileos Georgiou B' - 1", "Vasileos Georgiou B' - 2", "Vasileos Georgiou A' - Panayia Tricherousa church", "Spyrou Kyprianou - 26th Elementary School", "Spyrou Kyprianou - AGIP", "Vasileos Constantinou - Stop 1", "Vasileos Constantinou - Elementary School", "Grobious - Stop 1", "Grobious - Fisko Lotus Plaza", "Petrou Tsirou - CYTA", "Petrou Tsirou - Peter and Paul Church", "Petrou Tsirou - Debenhams Apollon", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "5": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=7",
+        "stops": ["New Hospital", "Grigori Afxentiou - Zedros", "Grigori Afxentiou - Stop 2", "Grigori Afxentiou - Stop 3", "Sinergatismou", "55th Street", "56th Street", "59th Street - Sinikismos Agiou Nikolaou", "8th Street", "14th Street - Sinikismos Agiou Nikolaou", "22nd Street - Sinikismos Agiou Nikolaou", "13th Street - ERMIS", "5th Street - 1", "5th Street - 2", "6th Street", "7th Street", "10th Street", "Melinas Merkouri", "35th Street - Sinikismos Agios Ioannis 1", "35th Street - Sinikismos Agios Ioannis 2", "Panayioti Anagnostopoulou", "Adamantiou - Stop 1", "Adamantiou - Stop 2", "Evgeniou Voulgareos - Stop 1", "Evgeniou Voulgareos - Stop 2", "Iolis", "Marinou Geroulanou - Stop 2", "Marinou Geroulanou - C' Gymnasium", "Marinou Geroulanou - Stop 1", "Georgiou Averof - Stop 1", "Georgiou Averof - Pentalioti Park", "Parmenidou", "Rinou - Lyceum Agiou Ioanni", "Agias Sofias - Stop 1", "Charilaou Trikoupe", "Apostolou Varnava - Bank Of Cyprus", "Apostolou Varnava - Stop 1", "Apostolou Varnava - Stop 3", "Apostolou Varnava - Stop 4", "Archbishop Makariou C' - FireBrigate Station", "Leontiou - Le Village Hotel", "Leontiou - EMEL Central Station"]
+    },
+    "7": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=9",
+        "stops": ["My Mall", "Vertical Port Rd", "Epimitheos", "Anarxon", "Neftonos", "Dilou", "Ilysion - Agios Spyridonas Gymnasium", "Pegasou", "Miltonos - ESEL", "Mytilinis 1", "Mytilinis 2", "Sarantaporou - Sinikismos Omonias ", "Sarantaporou - Stop 2", "Asias", "Ilioupoleos", "Omonias - Stop 3", "Vasileos Pavlou - Stop 1", "Vasileos Pavlou - Stop 2", "Vasileos Pavlou - Stop 3", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Misiaouli &amp; Kavazoglou - Lemeco", "Misiaouli &amp; Kavazoglou - ESSO", "Misiaouli &amp; Kavazoglou - Pefkos Hotel", "Marconi - Avenida", "Asklipiou", "Tagmatarxi Pouliou - Susini College", "Tagmatarxi Pouliou - Stegh Eughrias", "Aioloy", "Panayioti Diomidous - CYTA", "Leontiou - EMEL Central Station"]
+    },
+    "9": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=284",
+        "stops": ["Palodia Elementary School", "Palodia Community Council", "Melathron EOKA", "1st April - Stop 5 - Tsiarta Supermarket", "1st April - Stop 4 - Meliniotis Pastry Shop", "Ilias - Sinikismos Agias Fylas, Commercial Centre", "Ilias - Sinikismos Agias Fylas", "Kanakarias - Stop 1", "Kanakarias - Elementary School", "Kanakarias - Stop 3", "1st April - Stop 3", "1st April - Stop 2", "1st April - Stop 1", "Mediterranean Hospital of Cyprus", "Agias Fylaxeos - E&amp;S Supermarket", "Akanthous - Sinikismos Kapsalou", "Rizokarpasou - Sinikismos Kapsalou", "Sofias Vempo - Sinikismos Kapsalou, Commercial Ce", "Ierou Lochou - Chrysovalantou clinic", "Agias Fylaxeos - CXC", "Agias Fylaxeos - Stop 2", "Agias Filaxeos - Stop 3", "Agias Fylaxeos - Lyceum Petrou &amp; Pavlou", "Agias Fylaxeos - Lanition", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Leontiou - EMEL Central Station"]
+    },
+    "10": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=283",
+        "stops": ["Patron - Parking", "Agias Paraskevis - ESEL", "Agias Paraskevis - Stop 3", "Agias Paraskevis - Pharmacy Store", "Agias Paraskevis - Mini Football", "Patmou", "Kipselis", "Michael Zavou", "Agiou Epiktitou", "Agiou Epiktitou - Commercial Center", "Kokkinoyias - Park", "Kokkinoyias - Stop 2", "Charalampou Evagorou - Cemetery", "Charalampou Evagorou - Stop 2", "Charalampou Evagorou - Gefsi", "Anikodomiseos - Sinikismos Agiou Athanasiou", "Anikodomiseos - Bank Of Cyprus", "Anikodomiseos - SPE Agiou Athanasiou", "Anikodomiseos - Old Municipality Square", "Charalampou Fteroudi - Municipality Agiou Athanasiou", "Kartesiou", "Archbishop Makariou C' - Ap. Andrea Church", "Archbishop Makariou C' - ESEL", "Markou Drakou - Stop 1", "Markou Drakou - Stop 2", "Markou Drakou - Kalogeropoulio", "Kosti Palama - Stop 1", "Ierou Lochou - Chrysovalantou clinic", "Vasileos Georgiou A' - Panayia Tricherousa church", "Vasileos Georgiou B' - 2", "Ivikou", "Vasileos Constantinou - Stop 1", "Spyrou Kyprianou - Follow Me Institute", "Nikou Pattichi - Lamira", "Agios Georgios Havouzas Church", "Evaggelistrias - Verengaria", "Evaggelistrias - Municipal Park", "Patriarchi Fotiou - Alakati", "Karmiou", "Grigori Afxentiou - Stop 3", "Grigori Afxentiou - Stop 2", "Grigori Afxentiou - Zedros", "New Hospital"]
+    },
+    "11": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=15",
+        "stops": ["Michael Zavou", "Agiou Epiktitou", "Kokkinoyias - Park", "Charalampou Evagorou - Cemetery", "Charalampou Evagorou - Stop 2", "Charalampou Evagorou - Gefsi", "Agiou Athanasiou Avenue - Stop 2", "Iapetou 1", "Iapetou 2", "Ermi", "A. Kariolou 1", "A. Kariolou 2", "Spyrou Kyprianou - Agios Stephanos", "Stavrou Stylianidi - Vasioti", "Stavrou Stylianidi - Gymnastiro Christofi", "Pavlou Liasidi - Stop 1", "Pavlou Liasidi - Stop 2", "Elpinikis 1", "Elpinikis 2", "1st October - Stop 1", "1st October - Stop 2", "Kosma Aitolou - 27th Elementary School", "Kosma Aitolou - Stop 2", "Solomou Solomou", "Ardanon", "Milias", "Elpinikis 2", "Elpinikis 1", "Pavlou Liasidi - Stop 1", "Stavrou Stylianidi - Gymnastiro Christofi", "Stavrou Stylianidi - Vasioti", "Spyrou Kyprianou - Alicante", "Eptanisou", "Grigori Afxentiou - 10th Elementary School Halkout", "Omerou - Stop 1", "Omerou - Stop 2", "Nikodemou Milona", "Riga Fereou - Stop 1", "Riga Fereou - DHL", "Lordou Vironos", "Anastasiou Sioukri - Municipal Garden", "Gladstonos - Neon Phaliron", "Gladstonos - B' Elementary School", "Gladstonos - Pentadromos", "Gladstonos - Tziamouda", "Leontiou - EMEL Central Station"]
+    },
+    "12": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=17",
+        "stops": ["Mouttagiaka - Center Coffee Shops", "Agias Paraskevis", "Agiou Georgiou", "Evagora Pallikaride", "Makariou - Mouttagiaka Elementary School", "Archbishop Makariou", "Michalaki Karaoli", "Griva Digeni - Stop 1", "Sotiros", "Griva Digeni - Stop 2", "Ammochostou", "Agiou Eleftheriou - Stop 2", "Agiou Eleftheriou - Stop 1", "Grigori Afxentiou - Stop 1", "Grigori Afxentiou - Stop 2", "Grigori Afxentiou - Stop 3", "Petraki Giallourou - Sinikismos E' Phase", "Riga Fereou - Z.H.T. Phase, Sinikismos Moutagiaka", "Anthipaspisti Kleanthi Kleanthous", "Eleftherias - Z.H.T. Phase", "Dimokratias - Stop 1", "Dimokratias - Stop 2", "KCineplex", "Ariadnis - Stop 1", "Amathountos - High Chaparal", "Georgiou A' - Kiani Akti", "Profiti Elia - Stop 1", "Profiti Elia - Stop 2", "Argion", "Voltairou - Malibu", "Daidalidon - Park", "Christaki Kranou - Sigma", "Georgiou A' - Moniatis", "Georgiou A' - Park Beach Hotel", "Georgiou A'- Pizza Hut", "28th October - Kean", "28th October - Debenhams Olympia", "28th October - Olympic Residences", "28th October - G.S.O.", "Anastasiou Sioukri - Municipal Garden", "Gladstonos - Neon Phaliron", "Gladstonos - B' Elementary School", "Gladstonos - Pentadromos", "Gladstonos - Tziamouda", "Leontiou - EMEL Central Station"]
+    },
+    "13": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=19",
+        "stops": ["Akrounta Village", "Akrounta - Stop 1", "Akrounta - Stop 2", "Foinikaria - Stop 1", "Foinikaria - Stop 2", "Patron - Parking", "Agias Paraskevis - ESEL", "Agias Paraskevis - Agias Paraskevis Church", "Agias Paraskevis - Stop 3", "Agias Paraskevis - Pharmacy Store", "Agias Paraskevis - Mini Football", "Christaki Kranou - Old Bridge Hotel", "Christaki Kranou - Sigma", "Georgiou A' - Moniatis", "Georgiou A' - Park Beach Hotel", "Panagioti Tsangari - Stop 1", "Panagioti Tsangari - Stop 2", "Panagioti Tsangari - Stop 3", "Methanon", "Spyrou Kyprianou - EKO", "Spyrou Kyprianou - Columbia", "Kolonakiou - Health Centre", "Kolonakiou - Klappis", "Petrompei Mavromichali - Sinikismos Linopetras", "Petrompei Mavromichali - Lyceum Linopetras", "Elpidos - Linopetra Commercial Centre", "Karpasias - Stop 1", "Karpasias - Stop 2", "Kantaras", "Agiou Athanasiou Avenue - Stop 3", "Kolonakiou ", "Griva Digeni - Rialas", "Griva Digeni - Krisfigeto Griva Digeni", "Demokritou - Stop 1", "Demokritou - D' Lyceum Agiou Nikolaou", "Demokritou - Stop 3", "Meletiou Metaxaki - Park", "Aisopou - Bank of Cyprus", "Lambrou Porfira - EMEL Station", "Griva Digeni - Agios Nikolaos Church", "Griva Digeni - Maximos Court", "Archbishop Makariou C' - Eftapato", "Archbishop Makariou C' - Costa Cafe", "Archbishop Makariou C' - Lanition Stop 1", "Archbishop Makariou C' - Lanition Stop 2", "Ioanni Tsirou", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "14": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=21",
+        "stops": ["Estias - Sinikismos Agiou Athanasiou, Commercial ", "Monemvasias - Sinikismos Agiou Athanasiou", "Anikodomiseos - Bank Of Cyprus", "Charalampou Fteroudi - Municipality Agiou Athanasiou", "Kartesiou", "Archbishop Makariou C' - Ap. Andrea Church", "Archbishop Makariou C' - ESEL", "Markou Drakou - Stop 1", "Markou Drakou - Stop 2", "Markou Drakou - Kalogeropoulio", "Kosti Palama - Stop 1", "Kosti Palama - Stop 2", "Kosti Palama - Stop 3", "Kosti Palama - Stop 4", "Agiou Dimitriou", "Agiou Nektariou - Lanition Elementary School", "Kritis", "Agias Fylaxeos - Lanition", "Ioanni Tsirou - Post Office", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "15": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=23",
+        "stops": ["New Hospital", "143rd Street - Stop 1", "143th Street - Stop 2", "104th Street", "130th Street - Stop 1", "130th Street - Stop 2", "120th Street - Stop 1", "120th Street - Timiou Stavrou Church", "103rd Street", "102nd Street - Stop 1", "102nd Street - Stop 2", "100th Street - Sillogos Karmiotissa", "3rd Street", "3rd Street - B' Elementary School of Polemidia", "Patriarchi Fotiou - Alakati", "Agias Anastasias - Evaggelistria Church", "Evaggelistrias - Municipal Park", "Iasonos", "Kyrillou Loukareos - Stop 1", "Kyrillou Loukareos - Stop 2", "Potamianou - Orphanides", "28th Street -Sinikismos Makariou C'", "30th Street -Sinikismos Makariou C'", "23rd Street - Sinikismos Makariou C", "26th Street -Sinikismos Makariou C'", "28th Street -Sinikismos Makariou C'", "Saint Neofytou High School", "Spyrou Kyprianou - Agios Neophytos Gymnasium", "Nikou Pattichi - Agias Sofias Traffic Lights", "Nikou Pattichi - Pampinos", "Nikou Pattichi - Fairways Traffic Lights", "Leontiou - Le Village Hotel", "Leontiou - EMEL Central Station"]
+    },
+    "16": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=222",
+        "stops": ["18th Street", "9th Street", "1st Street", "Makariou", "Nikou Georgiou", "Mykinon", "7th Street", "6th Street - Episkopi Police Station", "14th Street - Stop 1", "Erimi - Stop 2", "Erimi - Stop 1", "Apostolou Louka - Kolossi Elementary School", "Apostolou Louka - Stop 2", "Apostolou Louka - Stadium", "Agiou Georgiou", "Agiou Georgiou - Stop 3", "Agiou Georgiou - Stop 2", "Agiou Georgiou - Agiou Georgiou Church Ipsonas", "Elia Kannaourou - EKO", "Elia Kannaourou - Stop 2", "Elia Kannaourou - SEDIGEP", "Pafou - DIY Ellinas", "Pafou - Vikentia", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Ioanni Tsirou - Post Office", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "17": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=28",
+        "stops": ["Kolossi Castle", "Apostolos Loucas Church", "Kolossi Elementary School", "Griva Digeni - Stop 1", "Griva Digeni - Stop 2", "Griva Digeni - Orphanides", "Rizokarpasou", "Ammochostou - Sinikismos Kolossiou Elemetary Scho", "Ammochostou - Stop 2", "Ammochostou - Agiou Fotinis &amp; Ap. Andrea Church Sin.", "Ammochostou - Stop 4", "Agiou Georgiou", "Ilia Venezi - Stop 1", "Ilia Venezi - Stop 2", "Archbishop Makariou C' - Sintrivani Ypsona", "Archbishop Makariou C' - Coffee Shops", "Archbishop Makariou C' - Paliolakkos", "Trion Ierarchon - Stop 1", "Michalaki Karaoli - Stop 1", "Michalaki Karaoli - Stop 2", "Michalaki Karaoli - Stop 3", "Ksenofontos", "Argonafton", "Sotiriou Tsaggari", "Trion Ierarchon - Stop 2", "Ammochostou", "Kerinias", "Elia Kannaourou - EKO", "Elia Kannaourou - Stop 2", "Elia Kannaourou - SEDIGEP", "Pafou - DIY Ellinas", "Pafou - Vikentia", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Ioanni Tsirou - Post Office", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "18": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=26",
+        "stops": ["Agiou Georgiou - Stop 2", "Agiou Georgiou - Agiou Georgiou Church Ipsonas", "Archbishop Makariou C' - Paliolakkos", "Archbishop Makariou C' - Coffee Shops", "Archbishop Makariou C' - Sintrivani Ypsona", "Parthenonos", "Tasou Isaak", "Dionisiou Solomou", "Athanasiou Diakou", "Kolokotroni", "Alexandrou Papadiamanti - Karkoti", "Asklipiou", "25th March - Stop 1", "25th March - Stop 2", "25th March - Stop 3", "Patriarchiou Ierosolimon", "Mimi Fotopoulou", "Steliou Kazantzidi", "Pera kampou", "8th Road", "Nikeas - New Hospital Road", "New Hospital", "22nd Street - Sinikismos Agiou Nikolaou", "Melinas Merkouri", "Melinas Merkouri - Pharmacy store", "Andrea Araouzou - Stop 2", "Andrea Araouzou - Agora", "Agoras", "Vertical Port Rd", "My Mall"]
+    },
+    "19": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=30",
+        "stops": ["Ellados", "Eleftherias", "Pentadaktylou", "Dimokratias", "Lefconikou", "Morfou - Trachoni Elementary School", "Ammochostou", "Makariou C' - Sillogos Laikes Organosis", "Agiou Mamantos - Stop 1", "Agiou Mamantos - Agiou Mamantos Church Trachoni", "Morfou", "Griva Digeni - Stop 2", "Konstantinou &amp; Evripidou", "Franklin Roosevelt", "Franklin Roosevelt - Zakaki Elementary School", "Franklin Roosevelt - AEZ", "Franklin Roosevelt - Stop 4", "Franklin Roosevelt - Dimosia Erga", "Franklin Roosvelt - Sikopetritis", "Franklin Roosevelt - Stop 7", "Dimokratias - Social Security", "Dimokratias - Stop 2", "Dimokratias - Stop 3", "Misiaouli &amp; Kavazoglou - ESSO", "Misiaouli &amp; Kavazoglou - Pefkos Hotel", "Misiaouli &amp; Kavazoglou - Polikatikies", "Yildiz - Turkish Hospital", "Navarinou", "Leontiou - EMEL Central Station"]
+    },
+    "20": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=32",
+        "stops": ["Taki Christodoulou", "28th October - Kean", "Griva Digeni - FireBrigade Station", "Griva Digeni - Stop 2", "Griva Digeni - Alfa Mega", "Georgiou Neophytou - Ajax Hotel", "Georgiou Neophytou - Stop 2", "Georgiou Neophytou - Stop 3", "Spyrou Kyprianou - Agios Stephanos", "Spyrou Kyprianou - Alicante", "Spyrou Kyprianou - Galactica", "Spyrou Kyprianou - 21st Primary School", "Spyrou Kyprianou - 9th Elementary School", "Spyrou Kyprianou - PASCAL", "Spyrou Kyprianou - 26th Elementary School", "Spyrou Kyprianou - AGIP", "Spyrou Kyprianou - Mega Electric", "Spyrou Kyprianou - Follow Me Institute", "Spyrou Kyprianou - Agios Neophytos Gymnasium", "Spyrou Kyprianou - Sillogos Hadjitheodosiou", "Spyrou Kyprianou - Promitheas", "Omonias - Stop 1", "Omonias - Stop 2", "Omonias - Stop 3", "Franklin Roosevelt - Dimosia Erga", "Franklin Roosevelt", "My Mall"]
+    },
+    "21": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=41",
+        "stops": ["My Mall", "Pafou - Vikentia", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Archbishop Makariou C' - Lanition Stop 2", "Archbishop Makariou C' - Lanition Stop 1", "Archbishop Makariou C' - Costa Cafe", "Archbishop Makariou C' - Eftapato", "Griva Digeni - Agios Nikolaos Church", "Griva Digeni - Krisfigeto Griva Digeni", "Griva Digeni - Rialas", "Kolonakiou - Linopetra Gymnasium", "Kolonakiou - Klappis", "Kolonakiou - Health Centre", "Spyrou Kyprianou - Columbia", "Spyrou Kyprianou - EKO", "Spyrou Kyprianou - Lanitis Eurohouse"]
+    },
+    "25": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=38",
+        "stops": ["Armenochori", "Griva Digeni - Elementary School", "Griva Digeni - Stop 2", "Griva Digeni - Stop 3", "Griva Digeni - Agia Anna &amp; Agios Stylianos Church", "Mesologgiou", "Onisilou - Agiou Tychonas Council", "Amathountos - Ohthos", "Amathountos - Arsinoe Hotel", "Amathountos - Istioploiko Kentro", "Amathountos - Aquarius Hotel", "Amathountos - High Chaparal", "Georgiou A' - Kiani Akti", "Georgiou A' - Apollonia Hotel", "Georgiou A' - Crusader Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Park Beach Hotel", "Georgiou A'- Pizza Hut", "28th October - Kean", "Griva Digeni - FireBrigade Station", "Kefalliinias - Stop 1", "Kefalliinias - Stop 2", "Neapolis High School", "Griva Digeni - Krisfigeto Griva Digeni", "Griva Digeni - Agios Nikolaos Church", "Griva Digeni - Maximos Court", "Lordou Vironos", "Anastasiou Sioukri - Municipal Garden", "Gladstonos - Neon Phaliron", "Gladstonos - B' Elementary School", "Gladstonos - Pentadromos", "Gladstonos - Tziamouda", "Leontiou - EMEL Central Station"]
+    },
+    "30": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=40",
+        "stops": ["My Mall", "Limassol Port", "Omonias - Duty Free", "Franklin Roosvelt - Sikopetritis", "Franklin Roosevelt - Stop 7", "Franklin Roosevelt - Social Security", "Franklin Roosevelt - Water Board", "Franklin Roosevelt - KEO", "Djelal Bayar - Agios Antonios Church", "Spyrou Araouzou - Old Harbour", "Spyrou Araouzou - Agia Napa Church", "Christodoulou Hadjipavlou - Emporiki Bank", "Christodoulou Hadjipavlou - Panagia Katholiki Chur", "28th October - G.S.O.", "28th October - Public Gallery", "28th October - Olympic Residences", "28th October - Debenhams Olympia", "28th October - Crowne Plaza", "28th October - Kean", "Georgiou A'- Pizza Hut", "Georgiou A' - Park Beach Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Azur Hotel", "Georgiou A' - Apollonia Hotel", "Amathountos - Londa Hotel", "Amathountos - McDonald's", "Amathountos - High Chaparal", "Amathountos - Aquarius Hotel", "Amathountos - Marathon Hotel", "Amathountos - Istioploiko Kentro", "Amathountos - Navarria Hotel", "Amathountos - Ohthos", "Amathountos - Four Seasons Hotel", "Amathountos - Mediterranean Hotel", "Amathountos - Amathus Hotel", "Amathountos - Amathountos Heritage", "Amathountos - Agia Varvara Church", "Amathountos - Atlantica Bay Hotel", "Amathountos - Elias Hotel", "Amathountos - St. Rafael Hotel", "Amathountos - Le Meridien - Stop 2", "Amathountos - Le Meridien Hotel"]
+    },
+    "33": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=255",
+        "stops": ["Amathountos - Le Meridien Hotel", "Amathountos - Le Meridien - Stop 2", "Amathountos - St. Rafael Hotel", "Amathountos - Grand Resort", "Amathountos - Elias Hotel", "Amathountos - Atlantica Bay Hotel", "Amathountos - Amathountos Heritage", "Amathountos - Amathus Hotel", "Amathountos - Mediterranean Hotel", "Amathountos - Four Seasons Hotel", "Amathountos - Ohthos", "Amathountos - Arsinoe Hotel", "Amathountos - Istioploiko Kentro", "Amathountos - Aquarius Hotel", "Amathountos - High Chaparal", "Georgiou A' - Kiani Akti", "Georgiou A' - Apollonia Hotel", "Georgiou A' - Crusader Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Park Beach Hotel", "Georgiou A'- Pizza Hut", "28th October - Kean", "28th October - Debenhams Olympia", "28th October - Olympic Residences", "28th October - Public Gallery", "Lordou Vironos", "Anastasiou Sioukri - Municipal Garden", "Gladstonos - Neon Phaliron", "Gladstonos - B' Elementary School", "Gladstonos - Pentadromos", "Anexartisias - Administration Building", "Anexartisias"]
+    },
+    "40": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=224",
+        "stops": ["Omodos", "Malia", "Paxna", "Ag. Amvrosios", "Kivides", "Souni", "Kantou", "Nikeas - New Hospital Road", "Nikaias - Stop 2", "Pafou - Ipsonas Industrial Area Traffic Lights", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Petousis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Leontiou - Vouniotis", "Leontiou - Le Village Hotel", "Leontiou - EMEL Central Station"]
+    },
+    "50": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=233",
+        "stops": ["Agros - Rodon Hotel", "Ag. Ioannis Agrou", "Kato Milos", "Kalo Chorio", "Ag. Paraskevi", "Gerasa", "Paramitha", "Palodia Elementary School", "Palodia Community Council", "Melathron EOKA", "1st April - Stop 5 - Tsiarta Supermarket", "1st April - Stop 4 - Meliniotis Pastry Shop", "1st April - Stop 3", "1st April - Stop 2", "1st April - Stop 1", "Mediterranean Hospital of Cyprus", "Agias Fylaxeos - E&amp;S Supermarket", "Agias Fylaxeos - CXC", "Agias Fylaxeos - Stop 2", "Agias Filaxeos - Stop 3", "Agias Fylaxeos - Lyceum Petrou &amp; Pavlou", "Agias Fylaxeos - Lanition", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Leontiou - EMEL Central Station"]
+    },
+    "51": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=234",
+        "stops": ["Mathikoloni", "Charalampou Evagorou - Cemetery", "Charalampou Evagorou - Stop 2", "Charalampou Evagorou - Gefsi", "Anikodomiseos - Sinikismos Agiou Athanasiou", "Anikodomiseos - Bank Of Cyprus", "Charalampou Fteroudi - Municipality Agiou Athanasiou", "Kartesiou", "Archbishop Makariou C' - Ap. Andrea Church", "Archbishop Makariou C' - Galactica", "Archbishop Makariou C' - Melis", "Archbishop Makariou C' - Sinergatiko Tamieftirio", "Archbishop Makariou C' - Tseriotis Fruit market", "Agias Zonis 1", "Archbishop Makariou C' - Lanition Stop 1", "Archbishop Makariou C' - Lanition Stop 2", "Ioanni Tsirou", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "60": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=238",
+        "stops": ["Pelendri", "Saitas", "Trimiklini", "Lania", "Alassa", "PALAIS De Sport", "Giannou Kranidioti 2", "Giannou Kranidioti 1", "Giannou Kranidioti - Karseras", "Agios Georgios Havouzas Church", "Nikou Pattichi - Agias Sofias Traffic Lights", "Nikou Pattichi - Fairways Traffic Lights", "Leontiou - Le Village Hotel", "Leontiou - Vouniotis", "Leontiou - EMEL Central Station"]
+    },
+    "61": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=258",
+        "stops": ["Saitas", "Trimiklini", "Lania", "Alassa", "PALAIS De Sport", "Giannou Kranidioti 2", "Giannou Kranidioti 1", "Giannou Kranidioti - Karseras", "Agios Georgios Havouzas Church", "Nikou Pattichi - Lamira", "Nikou Pattichi - Agias Sofias Traffic Lights", "Nikou Pattichi - Fairways Traffic Lights", "Leontiou - Vouniotis", "Leontiou - EMEL Central Station"]
+    },
+    "70": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=271",
+        "stops": ["Alektora", "Pataniskia", "Ag. Thomas", "Avdimou"]
+    },
+    "80": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=278",
+        "stops": ["Prastio Kellakiou", "Kellaki"]
+    },
+    "90": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=266",
+        "stops": ["Sanida", "Vasa Kellakiou", "Asgata", "Monagroulli", "Moni", "Pyrgos", "Spyrou Kyprianou - Lanitis Eurohouse", "Spyrou Kyprianou - EKO", "Spyrou Kyprianou - Columbia", "Kolonakiou - Health Centre", "Kolonakiou - Klappis", "Kolonakiou - Linopetra Gymnasium", "Griva Digeni - Rialas", "Griva Digeni - Krisfigeto Griva Digeni", "Griva Digeni - Agios Nikolaos Church", "Griva Digeni - Maximos Court", "Archbishop Makariou C' - Eftapato", "Archbishop Makariou C' - Costa Cafe", "Archbishop Makariou C' - Lanition Stop 1", "Archbishop Makariou C' - Lanition Stop 2", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Leontiou - EMEL Central Station"]
+    },
+    "95": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=268",
+        "stops": ["Kalavasos", "Constantinoupoleos", "Amathountos - Grand Resort", "Amathountos - Elias Hotel", "Amathountos - Atlantica Bay Hotel", "Amathountos - Amathountos Heritage", "Amathountos - Amathus Hotel", "Amathountos - Mediterranean Hotel", "Amathountos - Four Seasons Hotel", "Amathountos - Ohthos", "Amathountos - Arsinoe Hotel", "Amathountos - Istioploiko Kentro", "Amathountos - Aquarius Hotel", "Amathountos - High Chaparal", "Georgiou A' - Kiani Akti", "Georgiou A' - Apollonia Hotel", "Georgiou A' - Crusader Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Park Beach Hotel", "Panagioti Tsangari - Stop 1", "Spyrou Kyprianou - Columbia", "Kolonakiou - Health Centre", "Kolonakiou - Klappis", "Kolonakiou - Linopetra Gymnasium", "Griva Digeni - Rialas", "Griva Digeni - Krisfigeto Griva Digeni", "Griva Digeni - Maximos Court", "Griva Digeni - Agios Nikolaos Church", "Lambrou Porfira - EMEL Station"]
+    },
+    "100": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=68",
+        "stops": ["Bus station Arediou", "Griva Digeni 1", "Griva Digeni 2", "Ergates Industrial area", "Grammar School", "Anthoupoli- Palechori Avenue", "Anthoupoli Avenue", "Kikladon 1", "Kikladon 2", "Kikladon 3", "Kikladon 4", "Anthoupoli Avenue 2", "Anthoupoli Avenue 3", "Nicosia Mall", "Iroon Avenue 1", "Iroon Avenue 2", "Makario Stadium Station", "Lefkotheou avenue 1", "Lefkotheou avenue 2", "Lefkotheou avenue 3", "Archangelou Michael 2", "Archangelou Michael 1", "Agiou Prokopiou 1", "Agiou Procopiou 2", "Delfon ", "Achaion", "Metochiou", "Chilonos", "Museum avenue", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "101": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=191",
+        "stops": ["Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3", "Kriou Nerou Avenue 4", "Kriou Nerou Avenue 5", "Protaras Cavo Greco Avenue 1", "Protaras Cavo Greco Avenue 2", "Cape Greko", "Konnou 1", "Konnou 2", "Konnou 3", "Protaras Cavo Greco Avenue 5", "Protaras Cavo Greco Avenue 6", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 8", "Protaras Cavo Greco Avenue 9", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 8", "Protaras Cavo Greco Avenue 9", "Protaras Cavo Greco Avenue 10", "Protaras Cavo Greco Avenue 11", "Protaras Cavo Greco Avenue 12", "Parnera Avenue 1", "Parnera Avenue 2", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 2", "Parnera Avenue 3", "Parnera Avenue 4", "Pinias", "Vrisoudion 1", "Vrisoudion 2", "Vrisoudion 3", "Tinou", "Protaras Avenue 1", "Protaras Avenue 2", "Protaras Avenue 3", "Protaras Avenue 4", "Protaras Avenue 5", "Protaras Avenue 6", "Saint George - Central Station"]
+    },
+    "102": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=192",
+        "stops": ["Saint George - Central Station", "Protaras Avenue 7", "Protaras Avenue 6", "Protaras Avenue 5", "Protaras Avenue 4", "Protaras Avenue 3", "Protaras Avenue 2", "Protaras Avenue 1", "Tinou", "Vrisoudion 3", "Vrisoudion 2", "Vrisoudion 1", "Pinias", "Parnera Avenue 4", "Parnera Avenue 3", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 1", "Protaras Cavo Greco Avenue 12", "Protaras Cavo Greco Avenue 11", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 6", "Protaras Cavo Greco Avenue 5", "Konnou 4", "Konnou 3", "Konnou 2", "Konnou 1", "Cape Greko", "Protaras Cavo Greco Avenue 2", "Protaras Cavo Greco Avenue 1", "Kriou Nerou Avenue 4", "Kriou Nerou Avenue 3", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 1", "Ayia Napa Square", "Archbishop Makarios C 1", "Kassandrous (Pier Ann Hotel)", "Nisi Avenue 8", "Nisi Avenue 7", "Nisi Avenue 6", "Nisi Avenue 5", "Nisi Avenue 4", "Nisi Avenue 3", "Nisi Avenue 2", "Nisi Avenue 1", "Agias Theklas 1", "Agias Theklas 3 (Waterpark)"]
+    },
+    "106": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=69",
+        "stops": ["Makedonias Avenue 1", "Makedonias avenue 2", "Ioustinianou avenue 1", "Ioustinianou Avenue 2", "Filopappou avenue 1", "Ferekrati", "Filopappou Avenue 2", "Fthiotidos 1", "Fthiotidos 2", "Dimitri Vikella avenue 1", "Dimitri Vikella avenue 2", "Dimitri Vikella avenue 3", "Iosif Chatziosif avenue 1", "Iosif Chatziosif avenue 2", "Iosif Chatziosif avenue 3", "Iosif Chatziosif avenue 4", "Iosif Chatziosif avenue 5", "Iosif Chatziosif avenue 6", "Acropoleos avenue 1", "Acropoleos avenue 2", "Acropoleos avenue 3", "Nikis 1", "Nikis 2", "Kiriakou Matsi avenue", "Georgiou Griva Digeni avenue 1", "Dimostheni Severi avenue 4", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "107": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=70",
+        "stops": ["Nicosia- Daliko avenue", "28th October 1", "28th October 2", "Ermou 1", "Ermou 2", "Kalogreas", "Karava", "Dimitris Lipertis", "Erithrou Stavrou", "Ermou", "Inomenon Ethnon 1", "Inomenon Ethnon 2", "Agias Elenis 1", "Agias Elenis 2", "Odisseos ", "Odissea Eliti 1", "Odissea Eliti 2", "Vladimirou Kafkaridi", "Giannou Kranidioti 1", "Giannou Kranidioti 2", "Limassol avenue 4", "Megalou Alexandrou 1", "Megalou Alexandrou 2", "Idaliou 1", "Idaliou-Laiki Sporting Club", "Idaliou 2", "Patmou", "Agias Lavras", "Giannou Kranidioti avenue 4", "Giannou Kranidioti avenue 5", "Giannou Kranidioti avenue 6", "Giannou Kranidioti avenue 7", "Agiou Georgiou", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Dimokratias 1", "Dimokratias 2", "Antistaseos 1", "Antistaseos 2", "Antistaseos 3", "Iroon 1", "Iroon 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Limassol avenue 1", "Limassol avenue 2", "The Mall of Cyprus 1", "The Mall of Cyprus 2", "Nicosia General Hospital"]
+    },
+    "110": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=71",
+        "stops": ["Kallitheas 1", "Kallitheas 2", "Tseriou", "Fidiou", "Glifou- Agiou Chrisostomou Gymnasium", "Pefkou", "Giannou Kranidioti avenue 1", "Giannou kranidioti avenue 2", "Giannou Kranidioti avenue 3", "Orfeos", "Neapoleos", "Mias Milias", "Anexartisias", "Agious Stilianou 1", "Karavostasiou 1", "Karavostasiou 2", "Ippokratous 1", "Ippokratous 2", "Tseriou avenue 9", "Tseriou avenue 8", "Tseriou avenue 7", "Tseriou avenue 6", "Tamassou", "Marathovounou", "Kantaras 1", "Kantaras 2", "Kantaras 3", "Kantaras 4", "Strovolou avenue 5", "Strovolou Avenue 4", "Strovolou avenue 3", "Strovolou avenue 2", "Strovolou avenue 1", "Proedrikou Megarou", "Dimostheni Severi avenue 1", "Dimostheni Severi avenue 2", "Dimostheni Severi avenue 3", "Dimostheni Severi avenue 4", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "112": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=72",
+        "stops": ["Salaminos 1", "Salaminos 2", "Filias", "Amathountos", "Analiontas", "Archbishop Makariou C'", "Anagenniseos", "Michael Kasoulidi", "Kosta Mishiaouli", "Strovolou 1", "Strovolou 2", "Strovolou 3", "Tseriou avenue 12", "Tseriou avenue 11", "Tseriou avenue 10", "Tseriou avenue 9", "Tseriou avenue 8", "Tseriou avenue 7", "Tseriou avenue 6", "Tseriou avenue 5", "Tseriou Avenue 4", "Tseriou avenue 3", "Tseriou Avenue 2", "Tseriou avenue 1", "Tseriou 1", "Tseriou 2", "Rodopis", "Strovolou Avenue 4", "Strovolou avenue 3", "Strovolou avenue 2", "Strovolou avenue 1", "Proedrikou Megarou", "Dimostheni Severi avenue 1", "Dimostheni Severi avenue 2", "Dimostheni Severi avenue 3", "Dimostheni Severi avenue 4", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "114": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=213",
+        "stops": ["Aristofanous 3", "Aristofanous 2", "Aristofanous 1", "Constantinoupoleos avenue 3", "Georgiou Seferi 2", "Georgiou Seferi 1", "Nafsikas", "Aristofanous 4", "Keramikou", "Diagorou", "Stavrou", "Athinon 2", "Athinon 1", "Strovolou Avenue 4", "Perikleous 1", "Perikleous 2", "Perikleous 3", "Perikleous 4", "Iosif Chatziosif avenue 6", "Acropoleos avenue 1", "28th October", "Koritsas- Makario Hospital", "Acropoleos avenue 3", "Nikis 1", "Nikis 2", "Nikis 3", "Kiriakou Matsi avenue", "Evagorou Avenue", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "115": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=73",
+        "stops": ["Agiou Georgiou Avenue 1", "1st April- Lakatamia Municipality", "1st April", "Griva Digeni- Agiou Georgiou Gymnasium", "Georgiou Griva Digeni ", "Ioanni Kapodistria", "Riga Fereou", "Theodorou Kolokotroni 1", "Theodorou Kolokotroni 2", "Patriarchi Grigiriou E'", "Irakleous", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archangelou Michael", "Archangelou Michael- Charalambidis", "Pedieou 1", "Pedieou 2", "Spyrou Kyprianou avenue 3", "Spyrou Kyprianou avenue 2", "Spyrou Kyprianou avenue 1", "Agiou Eleutheriou 1", "Agiou Eleftheriou 2", "Agiou Eleutheriou 3", "Agiou Gennadiou 1", "Agiou Gennadiou 2", "Agiou Gennadiou 3", "Eleonon 2", "Eleonon- Agias Sofias", "Eleonon 1", "Kikladon", "Vizantiou 1", "Vizantiou 2", "Vizantiou 3", "Prodromou 3", "Prodromou 2", "Prodromou 1", "Chilonos", "Museum avenue", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "116": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=74",
+        "stops": ["Iroon 1", "Antistaseos", "Dimokratias 1", "Dimokratias 2", "Dimokratias 3", "Dimokratias 4", "Iroon 2", "Agiou Andrea", "Strovolos", "Andrea Avramidi 1", "Andrea Avramidi 2", "Georgiou Stokkou", "Michaei Kasoulidi- Arodafnousa", "Athalassas avenue 4", "Athalassas avenue 3", "Dasoupoleos", "Charalambous Kalaitzi", "Foti Pitta", "Fokidos", "Tilepikinonion", "Chrisanthou Milona", "Axiou", "Panagioti Kaspi", "Kefallinias", "Thermopilon", "Elefsinos", "Armenias 1", "Armenias 2", "Esperidon 1", "Esperidon 2", "John Kennedy avenue 1", "John Kennedy avenue 2", "John Kennedy avenue 3", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Evagorou Avenue", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "119": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=75",
+        "stops": ["Ouranou 1", "Ouranou 2", "Odissea Eliti ", "Constantinoupoleos avenue 1", "Constantinoupoleos avenue 2", "Aristofanous 1", "Aristofanous 2", "Aristofanous 3", "Aristofanous 4", "Nafsikas", "Georgiou Seferi 1", "Georgiou Seferi 2", "Constantinoupoleos avenue 4", "constantinoupoleos avenue 5", "Constantinoupoleos avenue 6", "Tseriou 1", "Rodopis", "Alexandroupoleos", "Themistokleous", "Kiriakou Matsi 1", "Kiriakou Matsi 2", "Stadiou", "Lordou Vironos", "Prodromou 7", "Prodromou 6", "Prodromou 5", "Prodromou 4", "Prodromou 3", "Prodromou 2", "Prodromou 1", "Chilonos", "Museum avenue", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "121": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=76",
+        "stops": ["Nisou (Krioneri) station", "E.O Nicosia- Limassol", "Limassol Avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol Avenue 4", "Limassol Avenue 5", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' avenue 7", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "123": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=77",
+        "stops": ["Isokratous 1", "Isokratous 2", "Klisthenous 1", "Klisthenous 2", "Parthenonos", "Andrea Anastasopoulou 1", "Andrea Anastasopoulou 2", "Florinis 1", "Florinis 2", "Eptanisou 1", "Eptanisou 2", "Eleutherias avenue", "Iroon Avenue 1", "Makario Stadium Station", "Ilia Papakiriakou 1", "Ilia Papakiriakou 2", "28th October avenue 1", "28th October avenue 2", "28th October Avenue 3", "Georgiou Griva Digeni avenue 14", "Kiriakou Matsi avenue 6", "Dimokratias avenue 1", "Dimokratias avenue 2", "Dimokratias avenue 3", "Agiou Pavlou avenue 1", "Agiou Pavlou Avenue 2", "Agiou Pavlou avenue 3", "Agiou Pavlou Avenue 4", "Agiou Pavlou avenue 5", "Agiou Pavlou avenue 6", "Iroon", "Kinira", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "126": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=78",
+        "stops": ["Alexandrou Panagouli 1", "Alexandrou Panagouli 2", "Agiou Dometiou 1", "Agiou Dometiou 2", "Agiou Savva", "Agiou Pavlou Avenue", "Alexandrou Panagouli 3", "Alexandrou Panagouli 4", "Stadiou", "Likavitou avenue 1", "Likavitou avenue 2", "Makario Stadium Station", "Lefkotheou avenue 1", "Ilia Papakiriakou 1", "Pavlou Mela", "Epias avenue 1", "Epias avenue 2", "Nikou Kranidioti 2", "25th March 1", "25th March 2", "Kiriakou Matsi avenue 3", "Kiriakou Matsi avenue 4", "Dimokratias avenue 1", "Grigori Afxentiou avenue 1", "Grigori Afxentiou avenue 2", "Grigori Afxentiou avenue 3", "Navarinou 1", "Navarinou 2", "Louki Akrita avenue 1", "Louki Akrita avenue 2", "Kinira", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "127": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=79",
+        "stops": ["Eleftherias avenue 1", "Eleftherias avenue 2", "Dimokratias 1", "Dimokratias 2", "Dimokratias 3", "Eleftherias avenue 3", "Eleftherias avenue 4", "Eleftherias avenue 5", "Agiou Georgiou Avenue 2", "Sporadon", "Kasou ", "Egeou 1", "Anthoupoli Avenue 1", "Dodekanisou 1", "Dodekanisou 2", "Egeou 2", "Eptanisou ", "Anthoupoli Avenue 3", "Archangelou Michael 6", "Archangelou Michael 5", "Archangelou Michael 4", "Archangelou Michael 3", "Archangelou Michael 2", "Archangelou Michael 1", "Nikou Kranidioti 2", "Nikou Kranidioti 1", "Georgiou Griva Digeni Avenue 9", "Georgiou Griva Digeni avenue 8", "Georgiou Griva Digeni avenue 7", "Agiou Prokopiou 1", "Agiou Procopiou 2", "Delfon ", "Achaion", "Metochiou", "Chilonos", "Museum avenue", "Egiptou Avenue", "Dionisiou Solomou Square"]
+    },
+    "140": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=80",
+        "stops": ["Melpomenis 1", "Melpomenis 2", "Aliakmonos", "Georgi Dimitrof 1", "Georgi Dimitrof 2", "Ammochostou avenue", "Agiou Ilarionos 1", "Kolokotroni", "Enotitos 1", "Enotitos 2", "Trikomou 1", "Trikomou 2", "John Kennedy avenue 1", "John Kennedy avenue 2", "John Kennedy avenue 3", "John Kennedy avenue 4", "Markou Drakou", "Salaminos Avenue 2", "Stasinou avenue 1", "Stasinou Avenue 2", "Stasinou avenue 3", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "148": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=81",
+        "stops": ["Vasileos Pavlou", "Athanasiou Diakou", "Sinergasias", "Smirnis 1", "Smirnis 2", "Smirnis 3", "Adromachis", "Kronou", "Constantinoupoleos 1", "Kyprianou", "Larissis", "Archbishop Makariou C' 2", "Archbishop Makariou C' 3", "Archbishop Makariou C' 4", "Kiriakou Matsi avenue", "Agiou Andreou 2", "Pouliou Kapota avenue", "Salaminos avenue 1", "Salaminos Avenue 2", "Stasinou avenue 1", "Stasinou Avenue 2", "Stasinou avenue 3", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "150": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=82",
+        "stops": ["University of Cyprus 1", "University of Cyprus 2", "University of Cyprus 3", "University of Cyprus 4", "University of Cyprus 5", "Athalassis avenue", "Kerinias Avenue 1", "Kerinias avenue 2", "Kerinias avenue 3", "Kerinias avenue 4", "Karava", "Egnatias", "Kallitheas Avenue 1", "Gianni Psichari", "Theofilou Georgiadi", "RIK avenue 2", "Academias Avenue", "Kerinias avenue 8", "Kerinias avenue 7", "Kerinias avenue 6", "Kerinias avenue 5", "Trooditissis", "Kentavrou", "Kefallinias 1", "Kefallinias 2", "Kefallinias 3", "Grigori Afxentiou", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Aglantzias Avenue 1", "Aglantzias Avenue 2", "Aglantzias avenue 3", "Kallipoleos Avenue 1", "Kallipoleos Avenue 2", "Kallipoleos avenue 3", "Kallipoleos Avenue 4", "Stasinou avenue 1", "Stasinou Avenue 2", "Stasinou avenue 3", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "157": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=83",
+        "stops": ["Bus station Arediou", "Griva Digeni 1", "Griva Digeni 2", "Archbishop Makarios C - Ergates Industrial area", "Archbishop Makariou C' 3", "Archbishop Makariou C' 4", "Archbishop Makariou C' avenue 22", "Archbishop Makariou C' avenue 21", "Archbishop Makariou C' avenue 20", "Archbishop Makariou C' avenue 19", "Archbishop Makariou C' avenue 18", "Archbishop Makariou C' avenue 17", "Archbishop Makariou C' avenue 16", "Archbishop Makariou C' avenue 15", "Archbishop Makariou C' avenue 14", "Archbishop Makariou C' avenue 13", "Archbishop Makariou C' avenue 12", "Archbishop Makariou C' avenue 11", "Archbishop Makariou C' avenue 10", "Archbishop Makariou C' avenue 9", "Archbishop Makariou C' avenue 8", "Archbishop Makariou C' avenue 7", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Strovolou avenue 10", "Strovolou Avenue 9", "Strovolou avenue 8", "Strovolou avenue 7", "Strovolou avenue 6", "Strovolou avenue 5", "Strovolou Avenue 4", "Strovolou avenue 3", "Strovolou avenue 2", "Strovolou avenue 1", "Proedrikou Megarou", "Dimostheni Severi avenue 1", "Dimostheni Severi avenue 2", "Dimostheni Severi avenue 3", "Dimostheni Severi avenue 4", "Grigori Afxentiou ", "Dionisiou Solomou Square"]
+    },
+    "158": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=84",
+        "stops": ["Nisou (Krioneri) station", "Limassol avenue- Dali industrial area", "Limassol avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol avenue 4", "25th March 1", "25th March 2", "25th March 3", "25th March 4", "Areos", "Giannou Kranidioti avenue 4", "Giannou Kranidioti avenue 5", "Giannou Kranidioti avenue 6", "Giannou Kranidioti avenue 7", "Giannou Kranidioti avenue 8", "Giannou Kranidioti avenue 9", "Giannou Kranidioti avenue 10", "Giannou Kranidioti avenue 11", "Limassol avenue 1", "Nicosia General Hospital", "The Mall of Cyprus 2", "The Mall of Cyprus 1", "Limassol avenue 2", "Kalamon 1", "Kalamon 2", "E.O Nicosia- Limassol", "Limassol avenue 2", "Limassol avenue 3", "Limassol Avenue 4", "Limassol Avenue 5", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' avenue 7", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "160": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=85",
+        "stops": ["Griva Digeni 1", "Geriou avenue 4", "Geriou avenue 3", "Geriou avenue 2", "Geriou avenue 1", "Agiou Georgiou", "Apostolou Andrea 1", "Apostolou Andrea 2", "Manou Loizou", "Dimitri Stavrou", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Dimokratias 1", "Dimokratias 2", "Antistaseos 1", "Antistaseos 2", "Antistaseos 3", "Iroon 1", "Iroon 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Nicosia General Hospital", "Limassol avenue 2", "Kalamon 1", "Kalamon 2", "E.O Nicosia- Limassol", "Limassol avenue 2", "Limassol avenue 3", "Limassol Avenue 4", "Limassol Avenue 5", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' avenue 7", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "200": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=86",
+        "stops": ["Bus station Arediou", "Griva Digeni 1", "Griva Digeni 2", "Archbishop Makarios C - Ergates Industrial area", "Archbishop Makariou C' 1", "Archbishop Makariou C' 2", "Archbishop Makariou C' 3", "Archbishop Makariou C' 4", "Archbishop Makariou C' avenue 22", "Archbishop Makariou C' avenue 21", "Archbishop Makariou C' avenue 20", "Archbishop Makariou C' avenue 19", "Archbishop Makariou C' avenue 18", "Archbishop Makariou C' avenue 17", "Archbishop Makariou C' avenue 16", "Archbishop Makariou C' avenue 15", "Archbishop Makariou C' avenue 14", "Archbishop Makariou C' avenue 13", "Archbishop Makariou C' avenue 12", "Archbishop Makariou C' avenue 11", "Archbishop Makariou C' avenue 10", "Archbishop Makariou C' avenue 9", "Archbishop Makariou C' avenue 8", "Archbishop Makariou C' avenue 7", "Archbishop Makariou C' Avenue 6", "Spyrou Kyprianou avenue 4", "Spyrou Kyprianou avenue 5", "Spyrou Kyprianou avenue 6", "Spyrou Kyprianou avenue 7", "Spyrou Kyprianou avenue 8", "Spyrou Kyprianou avenue 9", "Spyrou Kyprianou avenue 10", "Spyrou Kyprianou avenue 11", "Kalamon 2", "Kalamon 1", "Nicosia General Hospital", "Kalamon 1", "Kalamon 2", "E.O Nicosia- Limassol", "Athalassas Avenue 1", "Athalassas Avenue 2", "Athalassas avenue 3", "Athalassas avenue 4", "Athalassas avenue 5", "Acropoleos avenue 1", "Acropoleos avenue 2", "Koritsas- Makario Hospital", "28th October", "Acropoleos avenue 2", "Koritsas- Makario Hospital"]
+    },
+    "201": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=193",
+        "stops": ["Kassandrous (Pier Ann Hotel)", "Nisi Avenue 5", "Nisi Avenue 4", "Nisi Avenue 3", "Nisi Avenue 2", "Nisi Avenue 1", "Tevkrou Anthia 1", "Tevkrou Anthia 2", "Tevkrou Anthia 3", "Tevkrou Anthia 4", "Tevkrou Anthia 5", "Kasiallou", "Stadiou 1 (Nursery)", "Stadiou 2", "Stadiou 3", "Stadiou 4", "Stadiou 5", "Stadiou 6", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 1", "Dionisiou Solomou", "Ayia Napa Square", "Archbishop Makarios C 1", "Kassandrous (Pier Ann Hotel)"]
+    },
+    "210": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=250",
+        "stops": ["Nicosia General Hospital", "Karaiskakio Foundation", "Athalassis avenue", "University of Cyprus 1", "University of Cyprus 2", "University of Cyprus 3", "University of Cyprus 4", "University of Cyprus 5"]
+    },
+    "211": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=87",
+        "stops": ["Makario Stadium Station", "Lefkotheou avenue 1", "Lefkotheou avenue 2", "Lefkotheou avenue 3", "Archangelou Michael 4", "Archangelou Michael 5", "Spyrou Kyprianou avenue 1", "Spyrou Kyprianou avenue 2", "Spyrou Kyprianou avenue 3", "Spyrou Kyprianou avenue 4", "Spyrou Kyprianou avenue 5", "Spyrou Kyprianou avenue 6", "Spyrou Kyprianou avenue 7", "Spyrou Kyprianou avenue 8", "Spyrou Kyprianou avenue 9", "Spyrou Kyprianou avenue 10", "Spyrou Kyprianou avenue 11", "Kalamon 2", "Kalamon 1", "Limassol avenue 2", "The Mall of Cyprus 2", "The Mall of Cyprus 1", "Nicosia General Hospital"]
+    },
+    "214": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=88",
+        "stops": ["Makario Stadium Station", "Lefkotheou avenue 1", "Ilia Papakiriakou 1", "Ilia Papakiriakou 2", "28th October avenue 1", "28th October avenue 2", "Paleon Patron Germanou", "Makedonitissis 1", "Makedonitissis 2", "Kiriakou Matsi avenue 6", "Kiriakou Matsi avenue 5", "Kiriakou Matsi avenue 4", "25th March 2", "25th March 1", "Nikou Kranidioti 1", "Nikou Kranidioti 2", "Odissea Eliti ", "Tmima Odikon Metaforon", "Kikladon", "Lefkonos", "Prodromou 6", "Prodromou 7", "Prodromou 8", "Archbishop Kyprianou Avenue 3", "Archbishop Kyprianou Avenue 4", "Strovolou avenue 1", "Athalassas avenue 9", "Athalassas avenue 8", "Athalassas avenue 7", "Athalassas avenue 6", "Athalassas avenue 5", "Athalassas avenue 4", "Athalassas avenue 3", "Athalassas Avenue 2", "Athalassas Avenue 1", "Limassol Avenue 1", "Limassol avenue 2", "RIK avenue 1", "Academias Avenue", "Kerinias avenue 7", "Kerinias avenue 6", "Kerinias avenue 5", "Kerinias avenue 4", "Kerinias avenue 3", "Kerinias avenue 2", "Kerinias Avenue 1", "Athalassis avenue", "University of Cyprus 1", "University of Cyprus 2", "University of Cyprus 3", "University of Cyprus 4", "University of Cyprus 5"]
+    },
+    "215": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=89",
+        "stops": ["SOPAZ round- about", "Agiou Ilarionos 1", "Agiou Ilarionos 2", "Agiou Ilarionos 3", "Agiou Ilarionos 4", "Kantaras 1", "Kantaras 2", "Agiou Andreou 4", "Agiou Andreou 3", "Agiou Andreou 2", "Agiou Andreou 1", "Markou Drakou", "Digeni Akrita avenue 1", "Digeni Akrita avenue 2", "Digeni Akrita avenue 3", "Digeni Akrita avenue 4", "Spyrou Kyprianou Avenue 1", "Spyrou Kyprianou Avenue 2", "Georgiou Griva Digeni avenue 1", "Georgiou Griva Digeni avenue 2", "Georgiou Griva Digeni avenue 3", "Georgiou Griva Digeni Avenue 4", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 6", "Georgiou Griva Digeni avenue 7", "Georgiou Griva Digeni avenue 8", "Georgiou Griva Digeni Avenue 9", "Georgiou Griva Digeni avenue 10", "Hilton Park", "Georgiou Griva Digeni Avenue 12", "Georgiou Griva Digeni avenue 13", "Georgiou Griva Digeni avenue 14", "Makedonitissis 1", "Iroon Avenue 2", "Iroon Avenue 1", "Makario Stadium Station"]
+    },
+    "259": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=90",
+        "stops": ["Dimokratias", "Epistrofis", "Geriou avenue 1", "Geriou avenue 2", "Geriou avenue 3", "Geriou avenue 4", "Griva Digeni 1", "Griva Digeni 2", "Griva Digeni 3", "Archaias Lidras", "Athalassas Avenue 1", "Athalassas Avenue 2", "Archbishop Makariou", "University of Cyprus 1", "University of Cyprus 2", "University of Cyprus 3", "Larnacas 1", "Larnacas 2", "Larnacas 3", "Larnacas 4", "Larnacas 5", "Larnacas 6", "Larnacas 7", "Larnacas 8", "Larnacas 9", "Larnacas 10", "Larnacas 11", "Larnacas 12", "Larnacas 13", "Larnacas 14", "Salaminos Avenue 2", "Stasinou avenue 1", "Stasinou Avenue 2", "Stasinou avenue 3", "Diagorou", "Chilonos", "Metochiou", "Achaion", "Prince Charles 1", "Prince Charles 2", "Kiriakou Matsi avenue 1", "Kiriakou Matsi avenue 2", "Kiriakou Matsi avenue 3", "Kiriakou Matsi avenue 4", "Kiriakou Matsi avenue 5", "Kiriakou Matsi avenue 6", "Makedonitissis 1", "Makedonitissis 2", "Paleon Patron Germanou", "28th October avenue 2", "28th October avenue 1", "Ilia Papakiriakou 2", "Ilia Papakiriakou 1", "Lefkotheou avenue 1", "Makario Stadium Station"]
+    },
+    "301": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=194",
+        "stops": ["Saint George - Central Station", "Protaras Avenue 7", "Salaminos", "Hlia Papakuriakou", "Foti Pitta", "Esperidon", "Agiou Dimitriou", "Giorki Papadopoulou 1", "Giorki Papadopoulou 2", "Giorki Papadopoulou 3", "Kappari Avenue 1", "Kappari Avenue 2", "Kappari Avenue 3", "Kappari Avenue 4", "Saint Thomas", "Stadiou", "1st April 1", "Tasou Markou", "Saint George - Central Station"]
+    },
+    "302": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=92",
+        "stops": ["Lithrodonta ", "Mathiati", "Agia Varvara", "Limassol Avenue 3", "Limassol Avenue 2", "Chrisotiros Church", "Limassol Avenue 1", "Nisou (Krioneri) station", "Limassol avenue- Dali industrial area", "Limassol avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol avenue 4", "Giannou Kranidioti avenue 1", "Giannou Kranidioti avenue 2", "Giannou Kranidioti avenue 3", "Giannou Kranidioti avenue 4", "Giannou Kranidioti avenue 5", "Giannou Kranidioti avenue 6", "Giannou Kranidioti avenue 7", "Limassol avenue 1", "Limassol avenue 2", "The Mall of Cyprus 1", "The Mall of Cyprus 2", "Nicosia General Hospital", "Kalamon 1", "Kalamon 2", "Limassol Avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol Avenue 4", "Limassol Avenue 5", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' avenue 7", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "304": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=93",
+        "stops": ["Eleftherias avenue 2", "Eleftherias avenue 1", "Dimokratias 1", "Dimokratias 2", "Dimokratias 3", "Eleftherias avenue 3", "Eleftherias avenue 4", "Eleftherias avenue 5", "Agiou Georgiou Avenue 2", "Agiou Georgiou Avenue 3", "Anthoupoli Avenue", "Archbishop Makariou C' 1", "Archbishop Makariou C' 2", "Archbishop Makariou C' 3", "Archbishop Makariou C' 4", "Archbishop Makariou C' 5", "Archbishop Makariou C' 6", "Archbishop Makariou C' 7", "Archbishop Makariou C' 8", "Archbishop Makariou C' 9", "Archbishop Makariou C' 10", "Panayias Odigitrias", "Griva Digeni 1", "Griva Digeni 2", "Kiriakou Matsi 1", "Kiriakou Matsi 2", "Kokkinotrimithia Police Station", "Archangelou Michael 6", "Morfou Avenue", "Likavitou avenue 1", "Likavitou avenue 2", "Makario Stadium Station", "Lefkotheou avenue 1", "Ilia Papakiriakou 1", "Ilia Papakiriakou 2", "28th October avenue 1", "28th October avenue 2", "28th October Avenue 3", "Georgiou Griva Digeni avenue 14", "Georgiou Griva Digeni avenue 13", "Georgiou Griva Digeni Avenue 12", "Hilton Park", "Georgiou Griva Digeni avenue 10", "Georgiou Griva Digeni Avenue 9", "Georgiou Griva Digeni avenue 8", "Georgiou Griva Digeni avenue 7", "Georgiou Griva Digeni avenue 6", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni Avenue 4", "Georgiou Griva Digeni avenue 3", "Dimostheni Severi avenue 4", "Grigori Afxentiou ", "Dionisiou Solomou Square", "Archbishop Makariou C' avenue 7", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Limassol Avenue 6", "Limassol Avenue 5", "Limassol Avenue 4", "Limassol avenue 3", "Limassol avenue 2", "Limassol Avenue 1", "The Mall of Cyprus 2", "Nicosia General Hospital"]
+    },
+    "306": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=94",
+        "stops": ["Bus station Arediou", "Griva Digeni 1", "Griva Digeni 2", "Ergates Industrial area", "Archbishop Makariou C' 1", "Archbishop Makariou C' 2", "Archbishop Makariou C' 3", "Archbishop Makariou C' 4", "Archbishop Makariou C' avenue 22", "Archbishop Makariou C' avenue 21", "Archbishop Makariou C' avenue 20", "Archbishop Makariou C' avenue 19", "Archbishop Makariou C' avenue 18", "Archbishop Makariou C' avenue 17", "Archbishop Makariou C' avenue 16", "Archbishop Makariou C' avenue 15", "Archbishop Makariou C' avenue 14", "Archbishop Makariou C' avenue 13", "Archbishop Makariou C' avenue 12", "Archbishop Makariou C' avenue 11", "Archbishop Makariou C' avenue 10", "Archbishop Makariou C' avenue 9", "Archbishop Makariou C' avenue 8", "Archbishop Makariou C' avenue 7", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Strovolou Avenue 11", "Strovolou avenue 10", "Strovolou Avenue 9", "Strovolou avenue 8", "Evzonon", "Eleonon 3", "Eleonon 2", "Makedonitissis 4", "Makedonitissis 3", "Lefkotheou avenue 3", "Lefkotheou avenue 2", "Lefkotheou avenue 1", "Makario Stadium Station", "Lefkotheou avenue 1", "Ilia Papakiriakou 1", "Ilia Papakiriakou 2", "28th October avenue 1", "28th October avenue 2", "Hilton Park", "Georgiou Griva Digeni avenue 10", "Georgiou Griva Digeni Avenue 9", "Georgiou Griva Digeni avenue 8", "Georgiou Griva Digeni avenue 7", "Georgiou Griva Digeni avenue 6", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni Avenue 4", "Georgiou Griva Digeni avenue 3", "Georgiou Griva Digeni avenue 2", "Diagorou", "Dionisiou Solomou Square", "Archbishop Makariou C' avenue 7", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Limassol Avenue 6", "Limassol Avenue 5", "Limassol Avenue 4", "Limassol avenue 3", "Limassol avenue 2", "Limassol Avenue 1", "The Mall of Cyprus 1", "Nicosia General Hospital"]
+    },
+    "312": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=96",
+        "stops": ["Limpia", "Dali", "Pera Chorio", "Nisou", "Nisou (Krioneri) station", "Limassol avenue- Dali industrial area", "Limassol avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol avenue 4", "Giannou Kranidioti avenue 1", "Giannou Kranidioti avenue 2", "Giannou Kranidioti avenue 3", "Giannou Kranidioti avenue 4", "Giannou Kranidioti avenue 5", "Giannou Kranidioti avenue 6", "Giannou Kranidioti avenue 7", "Limassol avenue 1", "Limassol avenue 2", "The Mall of Cyprus 2", "The Mall of Cyprus 1", "Nicosia General Hospital", "Kalamon 1", "Kalamon 2", "Limassol Avenue 1", "Limassol avenue 2", "Limassol avenue 3", "Limassol Avenue 4", "Limassol Avenue 5", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' avenue 7", "Diagorou", "Dionisiou Solomou Square"]
+    },
+    "401": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=137",
+        "stops": ["Oktagono", "Mari 3", "Mari 2", "Mari 1", "Tsimentopiio Vasilikou 1", "Zygi Elementary School", "Constantinoupoleos", "Oktagono", "Kalavasos", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Anevue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 7", "Agion Constantinou kai Elenis 4", "Agion Constantinou kai Elenis 3", "Agion Constantinou kai Elenis 2", "Agion Constantinou kai Elenis 1", "Staurou 1", "Staurou 2", "Agiou Fanouriou 1", "Agias Paraskevis 1", "Agias Paraskevis 2", "Palaio E.O Larnacas- Limassol 1", "Palaio E.O Larnacas- Limassol 2", "Stathmos Kofinou"]
+    },
+    "402": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=138",
+        "stops": ["Grigori Afxentiou Avenue 5", "Grigori Afxentiou 4", "Grigori Afxentiou 3", "Grigori Afxentiou 2", "Grigori Afxentiou 1", "Psematismenos-Chirokitia 1", "Psematismenos- Zigi 1", "Agias Paraskevis 1", "Agias Paraskevis 2", "Palaio E.O Larnacas- Limassol 1", "Nicosia- Limassol old road", "Palaio E.O Larnacas- Limassol 2", "Kiriakou Matsi Avenue 1", "Kiriakou Matsi Avenue 2", "Kiriakou Matsi Avenue 3", "Agiou Epiktitou", "Stathmos Kofinou"]
+    },
+    "403": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=139",
+        "stops": ["Odous square", "Odou", "Melini square", "Melini 1", "Ora 1", "Ora 2", "Petros Petrou", "Ora 3", "Lagia", "Vavla 1", "Griva Digeni 1", "Griva Digeni 2", "Griva Digeni 3", "Archbishop Makariou C' Avenue", "Agias Paraskevis 1", "Agias Paraskevis 2", "Palaio E.O Larnacas- Limassol 1", "Palaio E.O Larnacas- Limassol 2", "Stathmos Kofinou"]
+    },
+    "404": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=140",
+        "stops": ["Agious Vavatsinias 2", "Agious Vavatsinias 1", "Andrea Neokleous", "Ora 1", "Ora 2", "Lagia", "Vavla 1", "Vavla 2", "Agiou Mina", "Kato Dris 3", "Kato Dris 2", "Kato Dris 1", "Agiou Louka 3", "Agiou Louka 2", "Agiou Louka 1", "Palaio E.O Larnacas- Limassol 1", "Palaio E.O Larnacas- Limassol 2", "Stathmos Kofinou"]
+    },
+    "405": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=141",
+        "stops": ["Vavatsinia 1", "Agiou Georgiou ", "Vavatsinia 2", "Isaak kai Solomou 1", "Isaak kai Solomou 2", "Lefkara Square", "Pigis", "Agiou Stefanou", "Agiou Timotheou", "Agiou Georgiou", "Kato Leukara 1", "Agiou Louka 3", "Agiou Louka 2", "Agiou Louka 1", "Palaio E.O Larnacas- Limassol 1", "Palaio E.O Larnacas- Limassol 2", "Stathmos Kofinou"]
+    },
+    "406": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=152",
+        "stops": ["Agion Trion Paidon", "Ellados Avenue 2", "Ellados Avenue 3", "Agiou Theodoros Larnacas 3", "Agiou Theodoros Larnacas 2", "Agiou Theodoros Larnacas 1", "Antonaki Manoli 2", "Antonaki Manoli 1", "Filiou Tsigaridi", "Panagias Astadiwtissas", "1st April 1", "1st April 2", "Stathmos Kofinou"]
+    },
+    "407": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=143",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Louki Pieridi", "Artemidos avenue 1", "Artemidos avenue 2", "Artemidos avenue 3", "Artemidos avenue 4", "Artemidos avenue 5", "Artemidos avenue 6", "Larnaca Airport", "Archbishop Makariou C' avenue 4", "Archbishop Makariou C' avenue 3", "Archbishop Makariou C' avenue 2", "Archbishop Makariou C' avenue 1", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou avenue C'", "Meneou Avenue 4", "Meneou avenue 3", "Meneou Avenue 2", "Meneou Avenue 1", "Mazotos Avenue", "Mazotos- Kiti 1", "Mazotos- Kiti 2", "Mazotos- Kiti 3", "Mazotos Camel Park", "Georgiou Griva Digeni avenue 3", "Georgiou Griva Digeni avenue 2", "Georgiou Griva Digeni avenue 1", "Mazotos Comm. Football Field", "Mazotos", "Ellados Avenue 5", "Ellados Avenue 4", "Ellados Avenue 3", "Ellados Avenue 2", "Ellados Avenue 1", "Zigi- Agios Theodoros 1", "Zigi- Agios Theodoros 2", "Zigi- Agios Theodoros 3", "Zygi Community Park", "Grigori Afxentiou 1", "Constantinoupoleos", "Grigori Afxentiou 2", "Tsimentopiio Vasilikou 1", "Tsimentopiio Vasilikou 2", "Mari 1", "EAC - Vasiliko", "Evang. Florakis Naval Base", "Oktagono"]
+    },
+    "408": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=144",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Nikou kai Despinas Pattichi Avenue 3", "Nikou kai Despinas Pattichi Avenue 4", "Limassol avenue 5", "Limassol Avenue 4", "Limassol Avenue 3", "Limassol Avenue 2", "Limassol Avenue 1", "Anexartisias Avenue 3", "Anexartisias Avenue 2", "Anexartisias Avenue 1", "Agglisides- Alethriko", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Menogeia - Exit", "Archbishop Makariou C' Avenue 3 ", "Stathmos Kofinou"]
+    },
+    "409": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=145",
+        "stops": ["Nisou (Krioneri) station", "Limassol Avenue 1", "Limassol Avenue 2", "Archbishop Makariou C' 1", "B' Elementary School Nisou", "Archbishop Makariou C' 2", "Chalkanoros 2", "Chalkanoros 1", "Griva Digeni", "Georgiou Eikosari", "Dali Lyceum", "Grigori Afxentiou", "Koumi Charalambous", "Apodimon square", "Agiou Epifaniou church", "Anexartisias", "Nicosia- Larnaca Old road", "Panagias Aimatousis 2", "Panagias Aimatousis 1", "Acropoleos Avenue 1", "Acropoleos Avenue 2", "Acropoleos Avenue 3", "Eleutherias Avenue 1", "Eleutherias Avenue 2", "G. Christodoulidi avenue 3", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "410": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=146",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Nikou kai Despinas Pattichi Avenue 3", "Nikou kai Despinas Pattichi Avenue 4", "Limassol avenue 5", "Limassol Avenue 4", "Limassol Avenue 3", "Limassol Avenue 2", "Limassol Avenue 1", "Ammochostou Avenue 1", "Ammochostou Avenue 2", "Ammochostou Avenue 3", "Ammochostou Avenue 4", "Iwakeim kai Anna Avenue", "Ave. Panagias Eleousas 2", "Ave. Panagias Eleousas 1", "Larnaca Avenue 1", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Politexneiou", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Avenue Lefkosia 2", "Ammochostou", "Appidakiou", "Avenue Lefkosia 1", "Larnacas avenue 1", "Larnacas avenue 2", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C'", "1st April 1", "Larnaca Avenue 3", "Larnaca Avenue 2", "Pyrga Elementary School", "Archbishop Makariou C' Avenue", "1st May 2", "1st May 1", "Grigori Afxentiou avenue 3", "Grigori Afxentiou avenue 2", "Grigori Afxentiou avenue 1", "Anexartisias 1", "Anexartisias 2", "Kornos- Delikipos 2", "Omonias ", "Kornos- Delikipos 1"]
+    },
+    "412": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=148",
+        "stops": ["Lazarou Georgiou", "Griva Digeni", "Archbishop Makariou C' 1", "Archbishop Makariou C' 2", "Tasou Constantinou Avenue 1", "Agios Dimitrios Church", "Archbishop Makariou C' Avenue", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Ave. Georg. Griva Digeni", "Aglisides Elementary School", "Margaritas M. Andreou 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Agglisides- Alethriko", "Anexartisias Avenue 1", "Anexartisias Avenue 2", "Anexartisias Avenue 3", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "G. Christodoulidi Avenue 1", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "413": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=149",
+        "stops": ["Grigori Afxentiou", "Gianni Fotiadi", "Georgiou Griva Digeni Avenue", "Ammochostou Avenue", "Salamina Avenue", "Anexartisias Avenue 1", "Anexartisias Avenue 2", "Pizavou", "Anexartisias Avenue 3", "Klavdia - Alethriko (Trifyllia)", "Klaudia 1", "Klaudia 2", "Klaudia 3", "Klaudia 4", "Klaudia 5", "Klaudia 6", "Klavdia 7", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "G. Christodoulidi Avenue 2", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "414": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=150",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Nikou kai Despinas Pattichi Avenue 3", "Nikou kai Despinas Pattichi Avenue 4", "Limassol avenue 5", "Limassol Avenue 4", "Limassol Avenue 3", "Limassol Avenue 2", "Limassol Avenue 1", "Klavdia exit", "Klavdia - Alethriko (Trifyllia)", "Anexartisias Avenue 3", "Anexartisias Avenue 2", "Anexartisias Avenue 1", "Eirinis Avenue", "Filias Avenue", "Grigori Afxentiou 2", "Grigori Afxentiou 1", "Anafotia - Aplanta Military Camp", "Michalaki Paridi 1", "Michalaki Paridi 2", "Agios Dimitrios Church", "Tasou Constantinou Avenue 1", "Agios Dimitrios Church", "Archbishop Makariou C' Avenue", "Aglisides Elementary School", "Ave. Georg. Griva Digeni", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Menogeia - Exit", "Archbishop Makariou C' Avenue 3 ", "Stathmos Kofinou"]
+    },
+    "415": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=151",
+        "stops": ["Panagia Chryseleoua Church", "M. Konstantinou", "Ave. Arch. Makariou C' 1", "Ave. Arch. Makariou C' 2", "Ave. Arch. Makariou C' 3", "Eleftheriou Venizelou 1", "Eleftheriou Venizelou 2", "Mpoumpoulinas", "Theokritou 1", "Theokritou 2", "Theokritou 3", "Athienou- Avdellero", "Avdellero 1", "Avdellero 2", "Avdellero 3", "Avdellero 4", "Acropoleos Avenue 1", "Acropoleos Avenue 2", "Acropoleos Avenue 3", "Eleutherias Avenue 1", "Eleutherias Avenue 2", "G. Christodoulidi avenue 3", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "417": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=98",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 6", "USA avenue", "Larnaca General Hospital", "Archbishop Paisiou 1", "G. Christodoulidi avenue 3", "Eleutherias Avenue 2", "Troodous 2", "Aradippou Industrial Area", "Pentadaktilou 1", "Pigmalionos", "Acropoleos Avenue 4", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Kiriakou Matsi Avenue", "Sinergatiki Allileggihs", "Papaflessa", "1st Elementary School", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Acropoleos Avenue 5", "Pigmalionos", "Pentadaktilou 1", "Aradippou Industrial Area", "Troodous 1", "Troodous 2", "Eleutherias Avenue 1", "G. Christodoulidi avenue 3", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "418": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=99",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Agias Elenis- Old Larnaca Hospital", "Louki Pieridi", "Artemidos avenue 1", "Artemidos avenue 2", "Artemidos avenue 3", "Artemidos avenue 4", "Artemidos avenue 5", "Artemidos avenue 6", "Larnaca Airport", "Eleutherias Avenue 1", "Agiou Panteleimonos Avenue 1", "Acropoleos Avenue", "Agiou Panteleimonos Avenue 2", "Grigori Afxentiou", "Agiou Panteleimonos Avenue 3", "Onasagorou", "Mpoumpoulinas", "Agiou Panteleimonos Avenue 4", "Archiepiskopou Kyprianou 1", "Archiepiskopou Kyprianou 2", "Evrou", "25th March avenue 2", "Artemidos 1", "Artemidos 2", "Dimokratias", "Timiou Prodromou 1", "Timiou Prodromou 2", "Larnaca Airport", "Artemidos avenue 7", "Artemidos avenue 6", "Artemidos avenue 5", "Artemidos avenue 4", "Artemidos avenue 3", "Artemidos avenue 2", "Artemidos avenue 1", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "419": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=100",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Louki Pieridi", "Artemidos avenue 1", "Artemidos avenue 2", "Artemidos avenue 3", "Artemidos avenue 4", "Artemidos avenue 5", "Artemidos avenue 6", "Larnaca Airport", "Timiou Prodromou 4", "Timiou Prodromou 3", "Timiou Prodromou 2", "Timiou Prodromou 1", "25th March avenue 1", "25th March avenue 2", "Dromolaxias Avenue 1", "Meneou Avenue 1", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 5", "Dios", "Kerinias ", "Trion Ierarxon 1", "Trion Ierarxon 2", "Odisseos", "Dionisiou Solomou", "Georgiou Seferi", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou avenue C'", "Alamanas", "Dromolaxias Avenue 1", "Dromolaxias Avenue 2", "25th March Avenue 3", "25th March avenue 2", "25th March avenue 1", "Timiou Prodromou 1", "Timiou Prodromou 2", "Timiou Prodromou 3", "Timiou Prodromou 4", "Larnaca Airport", "Artemidos avenue 7", "Artemidos avenue 6", "Artemidos avenue 5", "Artemidos avenue 4", "Artemidos avenue 3", "Artemidos avenue 2", "Artemidos avenue 1", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Grigori Afxentiou - Police Station", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "420": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=101",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Nikodimou Milona 1", "Giannou Kranidioti avenue 1", "Nikou kai Despinas Pattichi Avenue 1", "Mystra", "Archbishop Paisiou 1", "G. Christodoulidi Avenue 2", "G. Christodoulidi Avenue 1", "Limassol avenue 5", "Chrisoupoleos", "Kalimnou", "Nikoforou Foka", "Limassol Avenue 3", "Limassol Avenue 2", "Ammochostou Avenue 2", "Aigialousis 1", "Assias", "Grigori Afxentiou 2", "Grigori Afxentiou 1", "Egkomis", "Ammochostou Avenue 1", "Agiou Vasiliou", "Ammochostou Avenue 4", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Nikoforou Foka", "Kalimnou", "Chrisoupoleos", "Limassol avenue 5", "G. Christodoulidi Avenue 2", "Mystra", "Nikodimou Milona 1", "Nikodimou Milona 2", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "421": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=102",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou avenue", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Constantinoupoleos", "Mystra", "Archbishop Paisiou 1", "G. Christodoulidi Avenue 2", "G. Christodoulidi Avenue 1", "Limassol avenue 5", "Pireos", "Voulas 1", "Voulas 2", "Agion Apostolon", "Agiou Vasiliou", "Agiou Savva 1", "Agiou Savva 2", "Agiou Theodorou", "Agias Eirinis", "Agiou Epiktitou", "Kirinias", "Apostolou Andrea 2", "Vasileos Filippou", "Apostolou Andrea 1", "Kastalias 1", "Kastalias 2", "Limassol avenue 5", "G. Christodoulidi Avenue 2", "Mystra", "Constantinoupoleos", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "422": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=103",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Leontiou Maxera 1", "Leontiou Maxera 2", "Archbishop Makariou Maxeriotou", "Papanikoli Avenue 1", "Agias Theklas", "Round avenue 1", "Round avenue 3", "Round avenue 2", "Euksinou Pontou", "Petraki Kyprianou avenue ", "Agiou Savva 1", "Agiou Savva 2", "Agiou Savva 3", "Archbishop Makariou C' avenue 4", "Archbishop Makariou C' avenue 3", "Archbishop Makariou C' avenue 2", "Archbishop Makariou C' avenue 1", "Tefkrou Anthia", "Grigori Afxentiou Avenue 2", "Kiriakou Matsi", "Karpasias 2", "Karpasias 1", "Grigori Afxentiou Avenue 1", "Agiou Nikolaou 1", "Agiou Nikolaou 2", "Achaion", "Galileou Gelilei", "Euksinou Pontou", "Round avenue 2", "Round avenue 3", "Round avenue 1", "Agion anargiron avenue 2", "Agias Theklas", "Papanikoli Avenue 1", "Archbishop Makariou Maxeriotou", "Leontiou Maxera 2", "Leontiou Maxera 1", "Larnaca Central Station", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 6", "USA avenue", "Larnaca General Hospital", "Archbishop Paisiou 1", "Archbishop Paisiou 2", "Pentadaktilou 1", "Pentadaktilou 2", "Agiou Damianou", "Agiou Procopiou", "Orthodoxias 1", "Orthodoxias 2", "Archbishop Paisiou 5", "Agiou Mina", "Archbishop Paisiou 4", "Kuriakou Karnera", "Alvanikou Epous", "Nikou Gkatsou", "Miron 2", "Miron 1", "Oron 1", "Driadon", "Ifassou river", "Pireos", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Grigori Afxentiou - Police Station", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "423": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=104",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Ermou", "Constantinou Kalogera ", "Agias Elenis- Old Larnaca Hospital", "Louki Pieridi", "Faneromenis Avenue 4", "Faneromenis Avenue 3", "Agiptou Avenue", "Odisseos", "Thesalonikis avenue 2", "1st April avenue 1", "1st April Avenue 2", "1st April Αvenue 3", "Agiou Georgiou Makri 3", "Agiou Georgiou Makri 4", "Kalimnou (Kamares)", "Constantinoupoleos", "Mystra", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 6", "Georgiou Griva Digeni avenue 5", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Nikou kai Despinas Pattichi Avenue 3", "Kalimnou (Kamares)", "Agiou Georgiou Makri 4", "Agiou Georgiou Makri 3", "Kaisarias", "1st April Avenue 2", "1st April avenue 1", "Odisseos", "Agiptou Avenue", "Faneromenis Avenue 4", "Artemidos avenue 1", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "424": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=105",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Tasou Papdopoulou Avenue 1", "Tasou Papdopoulou Avenue 2", "Ammochostou Avenue 1", "Ammochostou Avenue 2", "Ammochostou Avenue 3", "Ammochostou avenue 4", "Ammochostou Avenue 5", "Ammochostou Avenue 6", "Ammochostou avenue 7", "Ammochostou avenue 8", "Acropoleos Avenue 1", "Acropoleos Avenue 2", "Acropoleos Avenue 3", "Acropoleos Avenue 4", "Acropoleos Avenue 5", "Anthousas", "Georgiou Griva Digeni Avenue", "Uclan Residences", "1st April", "4th Avenue", "3rd Avenue", "1st Avenue 3", "1st Avenue 2", "1st Avenue 1", "Archbishop Makariou C' Avenue 1", "Intercollage Residences", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Monimos Ipaxiomatikos Ethnikis Frouras Avenue", "Miaouli ", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "1st Avenue 1", "1st Avenue 2", "1st Avenue 3", "Uclan Residences", "Georgiou Griva Digeni Avenue", "Acropoleos Avenue 7", "Acropoleos Avenue 6", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou avenue 10", "Ammochostou avenue 9", "Ammochostou avenue 8", "Ammochostou avenue 7", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 3", "Ammochostou Avenue 2", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 1", "Tasou Papdopoulou Avenue 2", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Vasileos Pavlou Square", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "425": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=106",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Finikoudes Bus Stop", "Touzchane 4", "Touzchane 3", "Touzchane 2", "Touzchane 1", "Filopappou", "Pigiale Pasa 4", "Artemidos avenue 6", "Artemidos avenue 7", "Larnaca Airport", "Artemidos avenue 7", "Artemidos avenue 6", "Pigiale Pasa 4", "Filopappou", "Touzchane 1", "Touzchane 2", "Touzchane 3", "Touzchane 4", "Oum Charam", "Istampoul", "Apolloniou Kiteos", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 4", "Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Tasou Papdopoulou Avenue 1", "Tasou Papdopoulou Avenue 2", "Ammochostou avenue 4", "Ammochostou Avenue 5", "Ammochostou Avenue 6", "Ammochostou avenue 7", "Ammochostou avenue 8", "Ammochostou avenue 9", "Ammochostou avenue 10", "Ammochostou Avenue 11", "Ammochostou Avenue 12", "Acropoleos Avenue 1", "Acropoleos Avenue 2", "Acropoleos Avenue 3", "Acropoleos Avenue 4", "Acropoleos Avenue 5", "Anthousas", "EAC Dekellias", "EAC Dekelia 2", "Acropoleos Avenue 6", "Acropoleos Avenue 7", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou Avenue 12", "Ammochostou Avenue 11", "Ammochostou avenue 10", "Ammochostou avenue 9", "Ammochostou avenue 8", "Ammochostou avenue 7", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 2", "Tasou Papdopoulou Avenue 1", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "426": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=107",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Ermou", "Constantinou Kalogera ", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou avenue", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Nikou kai Despinas Pattichi Avenue 1", "Nikou kai Despinas Pattichi Avenue 2", "Constantinoupoleos", "Mystra", "Larnaca General Hospital", "USA avenue", "Georgiou Griva Digeni avenue 5", "Giannou Kranidioti avenue 1", "Stratigou Timagia Avenue 2", "Lisou Santama 1", "Lisou Santama 2", "Lisis 3", "Lisis 2", "Lisis 1", "Filomilas", "Kekropos 1", "Kekropos 2", "Poti", "Agias Sofias Avenue 5", "Agias Sofias Avenue 4", "Agias Sofias Avenue 3", "Agias Sofias Avenue 2", "Agias Sofias Avenue 1", "Leonidou", "25th March 1", "Palaion Patrwn Germanwn", "Agias Lavras", "Sinergatiki Allileggihs", "Kiriakou Matsi Avenue", "Poti", "Lisis 1", "Lisis 2", "Lisis 3", "Filomilas", "Kekropos 1", "Kekropos 2", "Lisou Santama 2", "Rafail Santi", "Stratigou Timagia Avenue 1", "Stratigou Timagia Avenue 2", "Georgiou Griva Digeni avenue 5", "USA avenue", "Larnaca General Hospital", "Mystra", "Constantinoupoleos", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Ermou", "Constantinou Kalogera ", "Grigori Afxentiou - Police Station", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "427": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=108",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 4", "Spyrou Kyprianou Avenue 1", "Spyrou Kyprianou Avenue 2", "Spyrou Kyprianou Avenue 3", "Stratigou Timagia Avenue 1", "Stratigou Timagia Avenue 2", "Giannou Kranidioti avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Finikoudes Bus Stop", "Touzchane 1", "Oum Charam", "Istampoul", "Apolloniou Kiteos", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou avenue", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 6", "USA avenue", "Larnaca General Hospital", "Archbishop Paisiou 1", "G. Christodoulidi Avenue 2", "G. Christodoulidi Avenue 1", "Faneromenis Avenue 1", "Faneromenis Avenue 2", "Faneromenis Avenue 3", "Faneromenis Avenue 4", "Artemidos avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "428": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=109",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Louki Akrita", "Chrisopolitissis", "Dimitriou Dianellou", "Sintika Chanoum", "Smirnis", "Stratigou Timagia Avenue 1", "Stratigou Timagia Avenue 2", "Kastorias", "Pavlou Mela", "Pavlou Nirvana", "Australias Avenue", "Omirou 1", "Omirou 2", "Omirou 3", "Omirou 4", "Sinergatiki Allileggihs", "Papaflessa", "1st Elementary School", "2nd Elementary School", "Dimarxio Aradipou", "Stadiou", "Aradipou Police Station", "Makrigianni", "Kosmiria", "Ionias", "Panagias Aimatousis 1", "Athinon Avenue 1", "Athinon Avenue 2", "1st April Avenue", "Petraki Kyprianou 1", "Petraki Kyprianou 2", "Athinagorou", "Palaion Patrwn Germanwn", "Agias Lavras", "Sinergatiki Allileggihs", "Omirou 4", "Omirou 3", "Omirou 2", "Omirou 1", "Spetswn", "Pavlou Mela", "Kastorias", "Giannou Kranidioti avenue 2", "Giannou Kranidioti avenue 1", "Stratigou Timagia Avenue 1", "Smirnis", "Sintika Chanoum", "Dimitriou Dianellou", "Chrisopolitissis", "Louki Akrita", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Grigori Afxentiou - Police Station", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "429": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=110",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 1", "Finikoudes Bus Stop", "Vasileos Pavlou Square", "Grigori Afxentiou 2", "Agias Elenis- Old Larnaca Hospital", "Louki Pieridi", "Fanerwmenis Avenue 5", "Touzchane 1", "Filopappou", "Artemidos avenue 6", "Artemidos avenue 7", "Tzami Oum Charam", "Larnaca Airport", "Archbishop Makariou C' avenue 5", "Archbishop Makariou C' avenue 4", "Archbishop Makariou C' avenue 3", "Meneou-Pervolia 1", "Meneou- Pervolia 2", "Meneou- Pervolia 3", "Meneou- Pervolia 4", "Farou Avenue 3", "Farou Avenue 2", "Farou Avenue 1", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Anexartisias", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Farou Avenue 1", "Farou Avenue 2", "Farou Avenue 3", "Meneou- Pervolia 4", "Meneou- Pervolia 3", "Meneou- Pervolia 2", "Meneou-Pervolia 1", "Archbishop Makariou C' avenue 3", "Archbishop Makariou C' avenue 4", "Archbishop Makariou C' avenue 5", "Larnaca Airport", "Tzami Oum Charam", "Tzami Oum Charam Tekke", "Tzami Oum Charam", "Artemidos avenue 7", "Artemidos avenue 6", "Filopappou", "Touzchane 1", "Touzchane 2", "Touzchane 3", "Touzchane 4", "Oum Charam", "Istampoul", "Apolloniou Kiteos", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Finikoudes Bus Stop", "Vasileos Pavlou Square", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "442": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=123",
+        "stops": ["Agiou Mama", "Andrea Souroukli 1", "Andrea Souroukli 2", "Andrea Souroukli 3", "Andrea Souroukli 4", "Eleutherias Avenue 1", "Eleutherias Avenue 2", "Eleutherias Avenue 3", "Archbishop Makariou C' avenue 4", "Archbishop Makariou C' avenue 3", "Archbishop Makariou C' avenue 2", "Archbishop Makariou C' avenue 1", "Petraki Kyprianou avenue ", "Andrea Stilianou avenue", "Alexandrou Panagouli Avenue 3", "Alexandrou Panagouli Avenue 2", "Alexandrou Panagouli Avenue 1", "Spyrou Kyprianou Avenue 2", "Spyrou Kyprianou Avenue 1", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou - Police Station", "Agias Elenis- Old Larnaca Hospital", "Constantinou Kalogera ", "Larnaca Central Station"]
+    },
+    "443": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=124",
+        "stops": ["Larnaca Central Station", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3", "Spyrou Kyprianou Avenue 1", "Spyrou Kyprianou Avenue 2", "Spyrou Kyprianou Avenue 3", "Stratigou Timagia Avenue 1", "Stratigou Timagia Avenue 2", "Giannou Kranidioti avenue 1", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Finikoudes Bus Stop", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou avenue", "Georgiou Griva Digeni Avenue 1", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 6", "USA avenue", "Larnaca General Hospital", "Archbishop Paisiou 1", "G. Christodoulidi Avenue 2", "G. Christodoulidi Avenue 1", "Faneromenis Avenue 1", "Faneromenis Avenue 2", "Faneromenis Avenue 3", "Faneromenis Avenue 4", "Fanerwmenis Avenue 5", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "444": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=125",
+        "stops": ["Papaflessa", "1st Elementary School", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Eleutherias Avenue 1", "Eleutherias Avenue 2", "Archbishop Paisiou 3", "Archbishop Paisiou 2", "G. Christodoulidi Avenue 2", "G. Christodoulidi Avenue 1", "Australias Avenue", "Faneromenis Avenue 1", "Faneromenis Avenue 2", "Faneromenis Avenue 3", "Faneromenis Avenue 4", "Artemidos avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "445": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=126",
+        "stops": ["Gregori Afxentiou", "Michael Karaoli", "25th March", "1st May 1", "1st May 2", "1st May 3", "Archangelou Michael", "Georgiou Griva Digeni 1", "Stadiou", "Kyriakou Matsi 1", "Kyriakou Matsi 2", "Georgiou Griva Digeni 1", "Pedias 1", "Pedias 2", "Mesaorias Avenue", "Pila", "Monimos Ipaxiomatikos Ethnikis Frouras Avenue", "Miaouli ", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "1st Avenue 1", "1st Avenue 2", "1st Avenue 3", "Georgiou Griva Digeni Avenue", "Acropoleos Avenue 7", "Acropoleos Avenue 6", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou avenue 7", "Ammochostou avenue 8", "Ammochostou avenue 9", "Ammochostou avenue 10", "Ammochostou Avenue 11", "Ammochostou Avenue 12", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 1", "Tasou Papdopoulou Avenue 2", "Archbishop Makariou C' Avenue 3", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Finikoudes Bus Stop", "Pigiale Pasa 1", "Pigiale Pasa 2", "Pigiale Pasa 3", "Filopappou", "Touzchane 1", "Touzchane 2", "Touzchane 3", "Touzchane 4", "Oum Charam", "Istampoul", "Apolloniou Kiteos", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "446": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=127",
+        "stops": ["Pervolion Avenue 4", "Kerinias ", "Antistaseos", "Grigori Afxentiou Avenue", "Amoxwstou", "Pervolion Avenue 4", "Pervolion Avenue 1", "Kitiou Avenue 1", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Grigori Afxentiou", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 1", "Meneou Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' avenue 1", "Georgiou Griva Digeni", "Onasagorou", "Agiou Panteleimonos Avenue 4", "Agiou Panteleimonos Avenue 2", "Agiou Panteleimonos Avenue 1", "25th March avenue 1", "Artemidos", "Dimokratias", "Timiou Prodromou 1", "Timiou Prodromou 2", "Larnaca Airport", "Artemidos avenue 7", "Artemidos avenue 6", "Pigiale Pasa 4", "Pigiale Pasa 3", "Pigiale Pasa 2", "Pigiale Pasa 1", "Istiklal", "Oum Charam", "Istampoul", "Apolloniou Kiteos", "Adonidos", "Agias Elenis- Old Larnaca Hospital", "Grigori Afxentiou 2", "Grigori Afxentiou - Police Station", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "448": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=128",
+        "stops": ["Stathmos Kofinou", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Menogeia - Exit", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Agglisides- Alethriko", "Anexartisias Avenue 1", "Anexartisias Avenue 2", "Anexartisias Avenue 3", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "Nikou kai Despinas Pattichi Avenue 1", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "449": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=129",
+        "stops": ["Vavatsinia 1", "Agiou Georgiou ", "Vavatsinia 2", "Isaak kai Solomou 1", "Isaak kai Solomou 2", "Lefkara Square", "Pigis", "Agiou Stefanou", "Agiou Timotheou", "Agiou Georgiou", "Kato Leukara 1", "Kato Dris 2", "Kato Dris 1", "Agiou Louka 3", "Agiou Louka 2", "Agiou Louka 1", "Nicosia- Limassol old road", "Stathmos Kofinou"]
+    },
+    "450": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=130",
+        "stops": ["Oktagono", "Mari 3", "Mari 2", "Mari 1", "Tsimentopiio Vasilikou 1", "Zygi Elementary School", "Constantinoupoleos", "Oktagono", "Kalavasos", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Anevue 3", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 7", "Agion Constantinou kai Elenis 4", "Agion Constantinou kai Elenis 3", "Agion Constantinou kai Elenis 2", "Agion Constantinou kai Elenis 1", "Staurou 1", "Staurou 2", "Psematismenos-Chirokitia 1", "Psematismenos- Zigi 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Grigori Afxentiou 3", "Tsaroukka Avenue", "Ellados Avenue 1", "Ellados Avenue 2", "Ellados Avenue 3", "Agiou Theodoros Larnacas 3", "Agiou Theodoros Larnacas 2", "Agiou Theodoros Larnacas 1", "Antonaki Manoli 2", "Antonaki Manoli 1", "Filiou Tsigaridi", "Panagias Astadiwtissas", "1st April 1", "1st April 2", "Kiriakou Matsi Avenue 1", "Kiriakou Matsi Avenue 2", "Kiriakou Matsi Avenue 3", "Agiou Epiktitou", "Stathmos Kofinou"]
+    },
+    "451": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=131",
+        "stops": ["Odous square", "Odou", "Melini square", "Melini 1", "Agious Vavatsinias 1", "Andrea Neokleous", "Ora 1", "Petros Petrou", "Ora 2", "Lagia", "Vavla 1", "Griva Digeni 1", "Griva Digeni 2", "Griva Digeni 3", "Archbishop Makariou C' Avenue", "Agias Paraskevis 1", "Agias Paraskevis 2", "Nicosia- Limassol old road", "Stathmos Kofinou"]
+    },
+    "452": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=132",
+        "stops": ["Lazarou Georgiou", "Griva Digeni", "Archbishop Makariou C' 1", "Archbishop Makariou C' 2", "Tasou Constantinou Avenue 1", "Agios Dimitrios Church", "Michalaki Paridi 1", "Anafotia - Aplanta Military Camp", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Gianni Fotiadi", "Georgiou Griva Digeni Avenue", "Ammochostou Avenue", "Salamina Avenue", "Anexartisias Avenue 1", "Anexartisias Avenue 2", "Anexartisias Avenue 3", "Klaudia 1", "Klaudia 2", "Klaudia 3", "Klaudia 4", "Klaudia 5", "Klaudia 6", "Klavdia 7", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "Nikou kai Despinas Pattichi Avenue 1", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "454": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=134",
+        "stops": ["Panagia Chryseleoua Church", "M. Konstantinou", "Ave. Arch. Makariou C' 1", "Ave. Arch. Makariou C' 2", "Ave. Arch. Makariou C' 3", "Eleftheriou Venizelou 1", "Eleftheriou Venizelou 2", "Mpoumpoulinas", "Theokritou 1", "Theokritou 2", "Athienou- Avdellero", "Avdellero 1", "Avdellero 2", "Avdellero 3", "Avdellero 4", "Acropoleos Avenue 1", "Acropoleos Avenue 2", "Acropoleos Avenue 3", "Eleutherias Avenue 1", "Eleutherias Avenue 2", "Georgiou Griva Digeni avenue 6", "Georgiou Griva Digeni avenue 5", "Georgiou Griva Digeni avenue 4", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou avenue", "Archbishop Makariou C' Avenue 1", "Larnaca Central Station"]
+    },
+    "455": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=135",
+        "stops": ["Omonias ", "Anexartisias 1", "Anexartisias 2", "Grigori Afxentiou avenue 1", "Grigori Afxentiou avenue 2", "Grigori Afxentiou avenue 3", "1st May 1", "1st May 2", "1st May 3", "Archbishop Makariou C' Avenue", "Larnaca Avenue 1", "Larnaca Avenue 2", "1st April 1", "1st April 2", "Archbishop Makariou C'", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Larnacas avenue 1", "Larnacas avenue 2", "Avenue Lefkosia 1", "Avenue Lefkosia 2", "Avenue Lefkosia 3", "Larnaca Avenue 1", "Larnaca Avenue 2", "Ave. Panagias Eleousas 1", "Ave. Panagias Eleousas 2", "Ioakim kai Anna Avenue 1", "Ioakim kai Anna Avenue 2", "Ammochostou Avenue 2", "Ammochostou Avenue 1", "Agiou Vasiliou", "Ammochostou Avenue 1", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "Nikou kai Despinas Pattichi Avenue 1", "Georgiou Griva Digeni Avenue 3", "Georgiou Griva Digeni Avenue 2", "Georgiou Griva Digeni Avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "456": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=136",
+        "stops": ["Tsimentopiio Vasilikou 1", "Tsimentopiio Vasilikou 2", "Mari 1", "Mari 2", "Kalavasos", "Constantinoupoleos", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Zygi Community Park", "Zigi- Agios Theodoros 3", "Zigi- Agios Theodoros 2", "Ellados Avenue 1", "Ellados Avenue 2", "Ellados Avenue 3", "Ellados Avenue 4", "Ellados Avenue 5", "Zigi- Mazotos 1", "Mazotos Comm. Football Field", "Georgiou Griva Digeni avenue 1", "Georgiou Griva Digeni avenue 2", "Georgiou Griva Digeni avenue 3", "Mazotos Camel Park", "Mazotos- Kiti 3", "Mazotos- Kiti 2", "Mazotos- Kiti 1", "Mazotos Avenue", "Meneou Avenue 1", "Meneou Avenue 2", "Meneou avenue 3", "Meneou Avenue 4", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' avenue 1", "Archbishop Makariou C' avenue 2", "Archbishop Makariou C' avenue 3", "Archbishop Makariou C' avenue 4", "Larnaca Airport", "Artemidos avenue 7", "Artemidos avenue 6", "Artemidos avenue 5", "Artemidos avenue 4", "Artemidos avenue 3", "Artemidos avenue 2", "Artemidos avenue 1", "Grigori Afxentiou 1", "Grigori Afxentiou 2", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 2", "Larnaca Central Station"]
+    },
+    "501": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=195",
+        "stops": ["Liopetri River", "Agias Theklas 10", "Agias Theklas 9", "Agias Theklas 8", "Agias Theklas 7", "Agias Theklas 6", "Agias Theklas 5", "Agias Theklas 4", "Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3", "Paralimni - Agia Napa Road 1", "Paralimni - Agia Napa Road 2", "Agia Napa - Paralimni 3", "Agia Napa - Paralimni 4", "Agia Napa - Paralimni 5", "1st April 4", "1st April 3", "1st April 2", "Saint George - Central Station", "1st April 1", "Griva Digeni 1", "Eleftherias", "Ammochostou Avenue 1", "Ammochostou Avenue 2", "Ammochostou Avenue 3", "Derynia Cross Point"]
+    },
+    "502": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=196",
+        "stops": ["Derynia Cross Point", "Ammochostou Avenue 2", "Ammochostou Avenue 1", "Eleftherias", "Griva Digeni 2", "Griva Digeni 1", "1st April 1", "Saint George - Central Station", "1st April 2", "1st April 3", "1st April 4", "1st April 5", "1st April 6", "1st April 7", "Paralimni - Agia Napa Road 2", "Paralimni - Agia Napa Road 1", "Agia Napa - Kavo Grego 1", "Agia Napa - Kavo Grego 2", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 1", "Ayia Napa Square", "Archbishop Makarios C 1", "Kassandrous (Pier Ann Hotel)", "Nisi Avenue 8", "Nisi Avenue 7", "Nisi Avenue 6", "Nisi Avenue 5", "Nisi Avenue 4", "Nisi Avenue 3", "Nisi Avenue 2", "Nisi Avenue 1", "Agias Theklas 1", "Agias Theklas 2", "Agias Theklas 3 (Waterpark)", "Agias Theklas 4", "Agias Theklas 5", "Agias Theklas 6", "Agias Theklas 7", "Liopetri River"]
+    },
+    "601": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=53",
+        "stops": ["Karavella Station", "Nicodemou Milona 1 street", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Ag Eirinis Timi 1", "Ag Sofias Timi 1", "Salaminas(Timi)1", "Salaminas(Timi)2", "Salaminas(Timi)3", "Griva Digeni(Timi)1", "Ag Marinas(Anarita)1", "Ag Marinas(Anarita)2", "Elevtherias street (Mandria)", "Gipsou(Mandria)1"]
+    },
+    "602": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=54",
+        "stops": ["Karavella Station", "P.Miltiadous 1 (Market)", "Fellaxoglou 1", "N.Ellina 2(Paphos)", "Neapoleos 1", "Neapoleos 2", "Neapoleos 3", "Neapoleos 4", "Neapoleos 5", "Neapoleos 6", "Ellados 1", "Andrea Dimitriou", "Vasilleos Konstantinou 5", "Ahepans-General Hospital", "EL.Venizelou 1", "Irenes", "A.Papagou 1", "A.Papagou 2", "A.Papagou 3", "Anexartisias street", "Demokratias 6", "Athinon 2 avenue", "Athinon 3 avenue", "Griva Digeni 3 Avenue", "N.Nikolaide 2", "Char .Mouskou street", "Karavella Station"]
+    },
+    "603": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=55",
+        "stops": ["Karavella Station", "Char .Mouskou street", "Neofytou Nikolaide", "Griva Digeni 5 Avenue", "Christodoulou Sozou 1", "Christodoulou Sozou 2", "N.Kranidioti 1", "Taxiarxon 1", "Taxiarxon 2", "George Ioannide 1", "N.Nikolaide 1", "Sotiri Markide 1", "Priamou 1", "Priamou 2", "Priamou 3", "Agapinoros 4", "Agapinoros street", "Ikarou 1", "Iasonos 1", "Poseidonos 15", "Kato Paphos station"]
+    },
+    "604": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=56",
+        "stops": ["Karavella Station", "P.Miltiadous 1 (Market)", "Fellaxoglou 1", "N.Ellina 2(Paphos)", "Akamandidos 2", "Archiepiskopou Makariou 8 Chloraka", "Archiepiskopou Makariou 9 Chloraka", "Archiepiskopou Makariou 10 Chloraka", "Ch Kkeli 3", "Ch Kkeli 4", "N.Ellina 9", "N.Ellina 10", "N.Ellina 11", "N.Ellina 12", "N.Ellina 13", "N.Ellina 14", "N.Ellina 15", "N.Ellina 16", "M.Stylianou 3", "M.Stylianou 4", "Miltiade Stylianou square", "Ig.Leondiou 3", "Ag Neofitos"]
+    },
+    "606": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=58",
+        "stops": ["Archiepiskopou Makariou 1 Geroskipou", "An. Georgiou Savva (To Geroskipou)", "Griva Digeni 4 (Geroskipou)", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Spyrou Kyprianou Av. (8)", "Geroskipou Beach", "Poseidonos 9", "Poseidonos 10", "Poseidonos 11", "Poseidonos 12", "Danaes 1", "Spyrou Kyprianou Av. (2)", "Spyrou Kyprianou Av. (4)", "Spyrou Kyprianou Av. (6)", "Ag Anargiron 1", "Ap Pavlou 4", "Ap Pavlou 5", "Kato Paphos station"]
+    },
+    "607": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=59",
+        "stops": ["Karavella Station", "P.Miltiadous 1 (Market)", "Fellaxoglou 1", "N.Ellina 2(Paphos)", "Akamandidos 2", "Elevtherias 6(Chloraka)", "Elevtherias 7(Chloraka)", "Elevtherias 8(Chloraka)", "Elevtherias 9(Chloraka)", "Elevtherias 10(Chloraka)", "Elevtherias 11(Chloraka)", "Papakosta 4(Chloraka)", "Papakosta 5(Chloraka)", "Papakosta 6(Chloraka)", "Ag Stefanou 4(Lempa)", "Ag Stefanou 5(Lempa)", "Ag Stefanou 6(Lempa)", "Makedonias 2 street Lempa", "Chr Kkeli 7 (Kissonerga)", "Chr Kkeli 8 (Kissonerga)", "Chr Kkeli 9 (Kissonerga)", "Chr Kkeli 10 (Kissonerga)", "Chr Kkeli 11 (Kissonerga)", "Kissonergas 5 Avenue", "Kissonergas 6 Avenue", "Kissonergas 7 Avenue", "M.Kiprianou 8", "M.Kiprianou 9", "M.Kiprianou 10", "M.Kiprianou 11", "M.Kiprianou 12", "M.Kiprianou 13", "Pegias square", "Akoursos"]
+    },
+    "608": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=60",
+        "stops": ["Karavella Station", "Evag.Pallikaride 1", "El.Venizelou 7", "El.Venizelou 8", "El.Venizelou 9", "El.Venizelou 10", "El.Venizelou 11", "El.Venizelou 12", "El.Venizelou 13", "Demokratias Avenue 3", "Ahepans-General Hospital", "Anavargou 1", "Church-Anavargos square"]
+    },
+    "609": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=61",
+        "stops": ["Karavella Station", "N.Nikolaide 5", "N.Nikolaide 6", "N.Nikolaide 7", "N.Nikolaide 8", "El.Venizelou 11", "El.Venizelou 12", "El.Venizelou 13", "Ahepans-General Hospital", "Archiepiskopou Makariou 2 (Konia)", "Gr.Digeni 4 (Konia)", "Gr.Digeni 5 (Konia)", "Gr.Digeni 6 (Konia)", "Aristide Tziamali 3", "Aristide Tziamali 4", "Ag demetriou -Armou 2", "Archiepiskopou Makariou Marathounta 1", "Archiepiskopou Makariou Marathounta 2", "Archiepiskopou Makariou Marathounta 3", "Archiepiskopou Makariou Marathounta 4", "Archiepiskopou Makariou Marathounta 5", "Hadjitheori 1 (Armou)", "Hadjitheori 2 (Armou)", "Hadjitheori 3 (Armou)", "Hadjitheori 4 (Armou)", "Episkopi 2", "Episkopis square"]
+    },
+    "610": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=62",
+        "stops": ["P.Miltiadous 1 (Market)", "Fellaxoglou 1", "Arc Leondiou 1", "Nicodemou Milona 1 street", "Ap Pavlou 1", "Agapinoros 1", "Agapinoros 2", "Ag Anargiron 1", "Ap Pavlou 4", "Ap Pavlou 5", "Kato Paphos station"]
+    },
+    "611": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=63",
+        "stops": ["Kato Paphos station", "Ledas 1", "Ledas 1", "Poseidonos 1", "Poseidonos 2", "Poseidonos 3", "Poseidonos 4", "Danaes 1", "Danaes 2", "Poseidonos 5", "Poseidonos 6", "Poseidonos 7", "Poseidonos 8", "Waterpark"]
+    },
+    "612": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=180",
+        "stops": ["Kato Paphos station", "Ledas 1", "Ledas 1", "Poseidonos 1", "Poseidonos 2", "Poseidonos 3", "Poseidonos 4", "Danaes 1", "Danaes 2", "Poseidonos 5", "Poseidonos 6", "Poseidonos 7", "Poseidonos 8", "Ierokipion 1-Germanina", "Mariou Toka 1", "Gianni Kondou 1", "Ippokratous 1 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Airport 1", "Airport 2", "Airport 3", "Airport 4", "Paphos Airport"]
+    },
+    "613": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=182",
+        "stops": ["Karavella Station", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Airport 1", "Airport 2", "Airport 3", "Airport 4", "Paphos Airport"]
+    },
+    "614": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=64",
+        "stops": ["Karavella Station", "Evag.Pallikaride 1", "Ellados 4", "Ellados 5", "Ellados 6", "Mesoyis 9", "Mesoyis 10", "Mesoyis 11", "Mesoyis 12", "Mesoyis 13", "Mesoyis 14", "Athinas 2 Tremithousa", "Riginou&amp;Oresti 2 Tremithousa", "M.Nikolaou 2 Mesoyi", "Karnavalou 1 Mesoyi", "Demostheni Georgiou 2 Mesa", "Mesa Chorio", "TSADA 4", "TSADA 5", "TSADA 6", "Kili 4", "Kili 5", "Koutsoulas", "Kili"]
+    },
+    "615": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=65",
+        "stops": ["Kato Paphos station", "Ap Pavlou 6", "Ap Pavlou 7", "Ap Pavlou 8", "Tombs of The kings 1", "Tombs of The kings 2", "Tombs of The kings 3", "Tombs of The kings 4", "Tombs of The kings 5", "Tombs of The kings 6", "Tombs of The kings 7", "Tombs of The kings 8", "Chlorakas 1", "Chlorakas 2", "Chlorakas 3", "Chlorakas 4", "Chlorakas 5", "Chlorakas 6", "Chlorakas 7", "Kissonergas 1", "Kissonergas 2", "Kissonergas 3", "Kissonergas 4", "Kissonergas 5 Avenue", "Kissonergas 6 Avenue", "Kissonergas 7 Avenue", "Coral Bay 1", "Coral Bay 2", "Coral Bay 3", "Coral Bay 4", "Coral Bay 5", "Coral bay"]
+    },
+    "616": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=66",
+        "stops": ["Coral bay", "Coral Bay 6", "Coral Bay 7", "Coral Bay 8", "Coral Bay 9", "M.Kiprianou 8", "M.Kiprianou 9", "M.Kiprianou 10", "M.Kiprianou 11", "M.Kiprianou 12", "M.Kiprianou 13", "Pegias square", "Gr Avxentiou 1", "Zalakion 1", "Kaminion 1", "Kaminion 2", "Alineris 1", "Panagias Zalatziotissas 1", "Panagias Zalatziotissas 2", "Akamandos 1", "Akamandos 2", "Ag georgiou pegias 4", "Ag Georgiou Pegias 5", "Ag Georgiou Pegias 6", "Ag Georgiou Pegias 7", "Ag georgiou pegias 8", "Ag Georgiou Pegias 9", "Ag Georgiou Pegias 10", "Ag Georgiou Pegias 11", "Ag Georgios Pegias"]
+    },
+    "618": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=212",
+        "stops": ["Karavella Station", "CTO offices", "Ap Pavlou 1", "Ap Pavlou 2", "Ap Pavlou 3", "Ap Pavlou 4", "Ap Pavlou 5", "Kato Paphos station"]
+    },
+    "621": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=279",
+        "stops": ["Polis Chrysoxous", "Arsinoeis", "Vasileos Filippou", "Apostolou Andrea", "Polis Hospital"]
+    },
+    "622": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=156",
+        "stops": ["Polis Chrysoxous", "V.Stasioikou 1", "Akamandos 1", "Akamandos 2", "Akamandos 3", "Akamandos 4(Latsi)", "Akamandos 5", "Akamandos 6", "Akamandos 7", "Akamantos Av. (Anassa)", "Akamantos Av. 8b", "Bath of Aphrodites"]
+    },
+    "623": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=157",
+        "stops": ["Neo Chorio", "Elia Tavrou 2(Neo Chorio)", "Elia Tavrou 3(Neo Chorio)", "Elia Tavrou 4(Neo Chorio)", "Akamandos 10", "Akamandos 11", "Akamandos 12", "Akamandos 13", "Akamandos 14", "V.Stasioikou 2", "Polis Chrysoxous"]
+    },
+    "624": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=158",
+        "stops": ["PELATHOUSA 1", "Polis Chrysoxous"]
+    },
+    "625": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=159",
+        "stops": ["Kinousa", "Makounda 2", "Makounda 1", "Argaka 15", "Argaka 16", "Poli Chrysoxou 4", "Poli Chrysoxou 5", "Polis Chrysoxous"]
+    },
+    "630": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=280",
+        "stops": ["Karavella Station", "Char .Mouskou street", "Neofytou Nikolaide", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Old Road Lemesou-Pafou 1", "Old Road Lemesou-Pafou 2", "Old Road Lemesou-Pafou 3", "Old Road Lemesou-Pafou 4", "Kouklia 1", "Kouklia 6", "Old road Lemesou-Pafou 5", "Old road Lemesou-Pafou 7", "Old road Lemesou-Pafou 6", "Petra tou Romiou", "Apostolou Andrea Pissouri", "Ampelonon Pissouri"]
+    },
+    "631": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=67",
+        "stops": ["Kato Paphos station", "Ledas 1", "Ledas 1", "Poseidonos 1", "Poseidonos 2", "Poseidonos 3", "Poseidonos 4", "Danaes 1", "Danaes 2", "Poseidonos 5", "Poseidonos 6", "Poseidonos 7", "Poseidonos 8", "Ierokipion 1-Germanina", "Mariou Toka 1", "Gianni Kondou 1", "Ippokratous 1 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Old Road Lemesou-Pafou 1", "Old Road Lemesou-Pafou 2", "Old Road Lemesou-Pafou 3", "Old Road Lemesou-Pafou 4", "Kouklia 6", "Old road Lemesou-Pafou 5", "Old road Lemesou-Pafou 7", "Aphrodites Av. Kouklia", "Old road Lemesou-Pafou 6", "Petra tou Romiou"]
+    },
+    "632": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=170",
+        "stops": ["Karavella Station", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Old Road Lemesou-Pafou 1", "Old Road Lemesou-Pafou 2", "Old Road Lemesou-Pafou 3", "Old Road Lemesou-Pafou 4", "Kouklia 1", "Kouklia 2", "Arximandrita 1", "Musere"]
+    },
+    "633": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=171",
+        "stops": ["Karavella Station", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Old Road Lemesou-Pafou 1", "Old Road Lemesou-Pafou 2", "Old Road Lemesou-Pafou 3", "Nikoklia 1", "Nikoklia 2", "Nikoklia 3", "Fasoula 1", "Fasoula 2", "Mamonia 1", "Ag Georgios 1", "Ag Georgios 2", "Prastio 1", "Kidasi", "Kedares 1", "Kedares 2", "Filousa", "Praitori 1", "Praitori 2", "Ag Nicolaos"]
+    },
+    "634": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=172",
+        "stops": ["Karavella Station", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Old Road Lemesou-Pafou 1", "Old Road Lemesou-Pafou 2", "Old Road Lemesou-Pafou 3", "Nikoklia 1", "Nikoklia 2", "Xoletria 1", "Xoletria 2", "Xoletria 3", "Xoletria 4", "Stavrokonnou 1", "Kelokedara 1", "Kelokedara 2", "Kelokedara 3", "Salamiou 1", "Salamiou 2", "Salamiou 3", "Mesana", "Arminou"]
+    },
+    "635": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=173",
+        "stops": ["Ag Ioannis", "Salamiou 4", "Salamiou 5", "Salamiou 6", "Traxipedoula 1", "Stavrokonnou 2", "Stavrokonnou 3"]
+    },
+    "636": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=174",
+        "stops": ["Karavella Station", "Griva Digeni 1 avenue", "Griva Digeni 5 Avenue", "Athinon 1 avenue", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Ag Varvara 1", "Ag Varvara 2", "Ag Varvara 3", "nata", "Axilou", "Eledio", "Amargeti 1", "Amargeti 2", "Ag Marina Kelokedaron", "Nea Pendalia", "Nea Pendalia Church", "Statos"]
+    },
+    "637": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=175",
+        "stops": ["Karavella Station", "Evag.Pallikaride 1", "Ellados 4", "Ellados 5", "Ellados 6", "Mesoyis 9", "Mesoyis 10", "Mesoyis 11", "Mesoyis 12", "Mesoyis 13", "Mesoyis 14", "Pafos-Polis road (Tsada)", "Stroumpi 1(Lemonari)", "Polemi 1", "Polemi 2", "Psathi 1", "Psathi 2", "Ag Demetrianos 1", "Ag Demetrianos 2", "Ag Demetrianos 3", "Kannaviou 1", "Kannaviou 2", "Asprogia 2", "Αsprogia", "Panagia"]
+    },
+    "638": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=176",
+        "stops": ["Ag Demetrianos 1", "Milia 1", "Drinia 1", "Drinia 2", "Drimou 1", "Drimou 2", "Simou 1", "Simou 2", "Lasa", "Fiti", "Kritou Marottou 1", "Kritou Marottou 2", "Kritou Marottou 3", "Ag Demetrianos 1"]
+    },
+    "639": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=177",
+        "stops": ["Choulou", "Choulou 1", "Lemona 1", "Lemona 2", "Letimpou 1", "Letimpou 2", "Letimpou 3", "Letimpou 4", "Kallepia 2", "Kallepia 1", "TSADA 4", "TSADA 5", "TSADA 6", "Tsada", "Mesoyis 1", "Mesoyis 2", "Mesoyis 3", "Mesoyis 4", "Mesoyis 5", "Mesoyis 6", "Mesoyis 7", "Mesoyis 8", "Ellados 1", "Ellados 2", "Ellados 3", "Evag.Pallikaride 2", "Karavella Station"]
+    },
+    "640": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=160",
+        "stops": ["Lisos", "Meladia", "Filousa 1 (Polis)", "Peristerona 1", "Peristerona 2", "Steni 1", "STENI 4", "STENI 5", "Polis Chrysoxous"]
+    },
+    "641": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=178",
+        "stops": ["Polis Chrysoxous", "Terra", "Kritou Terra", "Drousia Village", "Drousia Village", "Drousia Village", "Drousia Village", "Innia Village", "Innia Village", "Kato Arodes", "Pano Arodes", "Kathikas Village", "Kathikas Village", "Theletra Village", "Stroumpi 4", "Stroumbi 5", "Stroumpi 6", "Stroumbi 7", "Stroumbi 8", "Tsada", "Mesoyis 1", "Mesoyis 2", "Mesoyis 3", "Mesoyis 4", "Mesoyis 5", "Mesoyis 6", "Mesoyis 7", "Mesoyis 8", "Ellados 1", "Ellados 2", "Ellados 3", "Evag.Pallikaride 2", "Karavella Station"]
+    },
+    "645": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=165",
+        "stops": ["Polis Chrysoxous", "POLIS CHRYSOCHOU 1", "POLIS CHRYSOCHOU 2", "Skoulli 1", "Giolou 1", "Giolou 2", "Stroumpi 4", "Stroumbi 5", "Stroumpi 6", "Stroumbi 7", "Stroumbi 8", "Tsada", "Mesoyis 1", "Mesoyis 2", "Mesoyis 3", "Mesoyis 4", "Mesoyis 5", "Mesoyis 6", "Mesoyis 7", "Mesoyis 8", "Ellados 1", "Ellados 2", "Ellados 3", "Evag.Pallikaride 2", "Karavella Station"]
+    },
+    "646": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=166",
+        "stops": ["Polis Chrysoxous", "Chrysoxou 1", "Chrysoxou", "Goudi", "Choli", "Skoulli 1", "K.Akourdalia", "P.Akourdalia", "Miliou 2", "Miliou 1", "Miliou", "Giolou 1", "Giolou 2", "Giolou 4"]
+    },
+    "647": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=167",
+        "stops": ["Polis Chrysoxous", "V.Stasioikou 1", "Akamandos 1", "Akamandos 2", "Androlikou"]
+    },
+    "648": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=281",
+        "stops": ["Coral bay", "Pegias square", "Gr Avxentiou 1", "Zalakion 1", "Kathikas Village", "Pano Arodes", "Kato Arodes", "Innia Village", "Innia Village", "Drousia Village", "Drousia Village", "Drousia Village", "Drousia Village", "Akamantos Av. 18", "Akamantos Av. 19", "Polis Chrysoxous"]
+    },
+    "649": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=285",
+        "stops": ["Polis Chrysoxous", "POLIS CHRYSOCHOU 1", "POLIS CHRYSOCHOU 2", "Skoulli 1", "Giolou 1", "Giolou 2", "Stroumpi 4", "Stroumbi 5", "Stroumpi 6", "Stroumbi 7", "Stroumbi 8", "Tsada", "Mesoyis 1", "Mesoyis 2", "Mesoyis 3", "Mesoyis 4", "Mesoyis 5", "Mesoyis 6", "Mesoyis 7", "Mesoyis 8", "Tassou Papadopoulou 1", "Demokratias Avenue 4", "Demokratias 7", "Demokratias 6", "Archiepiskopou Makariou 1 Geroskipou", "Archiepiskopou Makariou 2 Geroskipou", "Archiepiskopou Makariou 3 Geroskipou", "Archiepiskopou Makariou 4 Geroskipou", "Archiepiskopou Makariou 5 Geroskipou", "Archiepiskopou Makariou 6 Geroskipou", "Archiepiskopou Makariou 7 Geroskipou", "Acheleia 1 (Anatoliko)", "Acheleia 2 (Church )", "Acheleia 3 (Ag Varvara Exit )", "Archiepiskopou Makariou(Timi)1", "Airport 1", "Airport 2", "Airport 3", "Airport 4", "Paphos Airport"]
+    },
+    "701": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=197",
+        "stops": ["EAC Dekellias", "EAC Dekelia 2", "Eirinis", "Vattenas Street", "Dimitraki Xristodoulou", "Dimokratias", "Anexartisias", "Anastasi Manoli", "Eleftherias", "Nikou Theodfanous 1", "Nikou Theodfanous 2", "28th October", "Andrea Kkolou", "Axironos", "1st April", "Stadiou 2", "Stadiou 1", "Eleftherias Square", "Agias Theklas", "Apostolou Andrea ", "Kiriakou Matsi 1", "Kiriakou Matsi 2", "Paralimniou 1", "Paralimniou 2", "1st April 2", "1st April 1", "Griva Digeni 1", "Eleftherias", "Akropolis", "Famagusta General Hospital"]
+    },
+    "702": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=198",
+        "stops": ["British Base", "Archbishop Makarios Avenue C 1", "Elevtherias", "Archbishop Makarios Avenue C 2", "Archbishop Makarios Avenue C 3", "Griva Digeni 5", "Griva Digeni 4", "Griva Digeni 3", "Charalampou Mouskou", "Augorou", "Mixali Karaoli 2", "Mixali Karaoli 1", "Karuon Avenue 2", "Karuon Avenue 1", "Sinikismos Avgorou 1", "Sinikismos Avgorou 2", "Ksanthou Samara", "Ammochostou", "Apostolou Varnava ", "Karpasias", "Archbishop Makarios C 1", "Archbishop Makarios C 2", "Archbishop Makarios C 2", "Archbishop Makarios C 1", "Eleftherias", "Famagusta General Hospital", "Akropolis", "Griva Digeni 3", "Griva Digeni 2", "Griva Digeni 1", "Saint George - Central Station"]
+    },
+    "703": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=199",
+        "stops": ["EAC Dekellias", "EAC Dekelia 2", "Eirinis", "Vattenas Street", "Dimitraki Xristodoulou", "Dimokratias", "Anexartisias", "Anastasi Manoli", "Eleftherias", "Nikou Theodfanous 1", "Nikou Theodfanous 2", "Georgiou Karuou", "Axironos", "Andrea Kkolou", "1st April", "Stadiou 2", "Stadiou 1", "Eleftherias Square", "Agias Theklas", "Apostolou Andrea ", "Kiriakou Matsi 1", "Kiriakou Matsi 2", "Paralimniou 1", "Paralimniou 2", "1st April 2", "Saint George - Central Station", "Protaras Avenue 7", "Protaras Avenue 6", "Protaras Avenue 5", "Protaras Avenue 4", "Protaras Avenue 3", "Protaras Avenue 2", "Protaras Avenue 1", "Tinou", "Vrisoudion 3", "Vrisoudion 2", "Vrisoudion 1", "Pinias", "Parnera Avenue 4", "Parnera Avenue 3", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 1", "Protaras Cavo Greco Avenue 11", "Protaras Cavo Greco Avenue 10", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 8", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 6", "Konnou 4", "Konnou 3", "Konnou 2", "Konnou 1"]
+    },
+    "704": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=200",
+        "stops": ["EAC Dekellias", "EAC Dekelia 2", "British Base", "Elevtherias", "Archbishop Makarios Avenue C 1", "Archbishop Makarios Avenue C 2", "Elevtherias", "Zacharia Spyrou", "Vattenas Street", "Dimitraki Xristodoulou", "Dimokratias", "Anexartisias", "Anastasi Manoli", "Alexander The Great Avenue", "Panagias", "Eleftherias", "Mixali Braximi", "Agias Theklas 10", "Agias Theklas 9", "Agias Theklas 8", "Agias Theklas 7", "Agias Theklas 6", "Agias Theklas 5", "Agias Theklas 4", "Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3"]
+    },
+    "705": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=201",
+        "stops": ["Griva Digeni 3", "Griva Digeni 2", "Griva Digeni 1", "Charalampou Mouskou", "Augorou", "Mixali Karaoli 2", "Mixali Karaoli 1", "Karuon Avenue 2", "Karuon Avenue 1", "Sinikismos Avgorou 1", "Sinikismos Avgorou 2", "Ksanthou Samara", "Xristou Samara", "Griva Digeni", "Andrea Kkolou", "Mixali Koutsofta", "Agias Theklas 10", "Agias Theklas 9", "Agias Theklas 8", "Agias Theklas 7", "Agias Theklas 6", "Agias Theklas 5", "Agias Theklas 4", "Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3"]
+    },
+    "706": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=202",
+        "stops": ["British Base", "Archbishop Makarios Avenue C 1", "Elevtherias", "Archbishop Makarios Avenue C 2", "Archbishop Makarios Avenue C 3", "Griva Digeni 3", "Griva Digeni 2", "Griva Digeni 1", "Charalampou Mouskou", "Augorou", "Mixali Karaoli 2", "Mixali Karaoli 1", "Karuon Avenue 2", "Karuon Avenue 1", "Sinikismos Avgorou 1", "Sinikismos Avgorou 2", "Ksanthou Samara", "Ammochostou", "Foti Pitta 1", "Archbishop Makarios C 1", "Archbishop Makarios C 2", "Archbishop Makarios C 2", "Archbishop Makarios C 1", "Eleftherias", "Griva Digeni 1", "Giorki Papadopoulou 1", "Giorki Papadopoulou 2", "Kappari Avenue 1", "Kappari Avenue 2", "Kappari Avenue 3", "Tinou", "Vrisoudion 1", "Vrisoudion 2", "Vrisoudion 3", "Pinias", "Parnera Avenue 4", "Parnera Avenue 3", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 1", "Protaras Cavo Greco Avenue 11", "Protaras Cavo Greco Avenue 10", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 6", "Protaras Cavo Greco Avenue 5", "Konnou 4", "Konnou 3", "Konnou 2", "Konnou 1"]
+    },
+    "708": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=204",
+        "stops": ["Strovilia Cross Point", "Strovilia", "Vrisoulles - Strovilia", "Axeritou", "Kwsta Hlia 1", "Kwsta Hlia 2", "Apostolou Varnava ", "Frenaros", "Foti Pitta 1", "Archbishop Makarios C 1", "Archbishop Makarios C 2", "Archbishop Makarios C 2", "Archbishop Makarios C 1", "Eleftherias", "Griva Digeni 3", "Griva Digeni 2", "Griva Digeni 1", "Saint George - Central Station", "Protaras Avenue 7", "Protaras Avenue 6", "Protaras Avenue 5", "Protaras Avenue 4", "Protaras Avenue 3", "Protaras Avenue 2", "Protaras Avenue 1", "Tinou", "Vrisoudion 3", "Vrisoudion 2", "Vrisoudion 1", "Pinias", "Parnera Avenue 4", "Parnera Avenue 3", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 1", "Protaras Cavo Greco Avenue 11", "Protaras Cavo Greco Avenue 10", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 6", "Protaras Cavo Greco Avenue 5", "Konnou 4", "Konnou 3", "Konnou 2", "Konnou 1"]
+    },
+    "709": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=205",
+        "stops": ["Strovilia Cross Point", "Strovilia", "Vrisoulles - Strovilia", "Axeritou", "Kwsta Hlia 1", "Kwsta Hlia 2", "Apostolou Varnava ", "Frenaros", "Foti Pitta 1", "Archbishop Makarios C 1", "Mixali Karaoli", "Agias Theklas 5", "Agias Theklas 4", "Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3"]
+    },
+    "710": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=206",
+        "stops": ["Archbishop Makarios C 3", "Archbishop Makarios C 2", "Athinon", "Pieridi", "Georgiou Seferi", "Saint Nicolas", "Dimitraki Xristodoulou", "Politexniou", "Derinia", "Archbishop Makarios C 1", "Stadiou 1", "Stadiou 2", "Ammochostou", "Eleftherias Square", "Kiriakou Matsi 1", "Apostolou Andrea ", "Agias Theklas 5", "Agias Theklas 4", "Agias Theklas 3 (Waterpark)", "Agias Theklas 2", "Agias Theklas 1", "Nisi Avenue 1", "Nisi Avenue 2", "Nisi Avenue 3", "Nisi Avenue 4", "Nisi Avenue 5", "Nisi Avenue 6", "Nisi Avenue 7", "Kassandrous (Pier Ann Hotel)", "Archbishop Makarios C 1", "Ayia Napa Square", "Dionisiou Solomou", "Kriou Nerou Avenue 1", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 3"]
+    },
+    "711": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=207",
+        "stops": ["Kappari Avenue 1", "Kappari Avenue 2", "Kappari Avenue 3", "Tinou", "Vrisoudion 3", "Vrisoudion 2", "Vrisoudion 1", "Pinias", "Parnera Avenue 3", "Parneras 1", "Parneras 2", "Aphrotides", "Parnera Avenue 1", "Protaras Cavo Greco Avenue 11", "Protaras Cavo Greco Avenue 10", "Protara 1", "Protara 2", "Protara 3", "Protaras Cavo Greco Avenue 7", "Protaras Cavo Greco Avenue 6", "Protaras Cavo Greco Avenue 5", "Protaras Cavo Greco Avenue 4", "Protaras Cavo Greco Avenue 3", "Protaras Cavo Greco Avenue 2", "Protaras Cavo Greco Avenue 1", "Kriou Nerou Avenue 4", "Kriou Nerou Avenue 3", "Kriou Nerou Avenue 2", "Kriou Nerou Avenue 1", "Ayia Napa Square", "Archbishop Makarios C 1", "Kassandrous (Pier Ann Hotel)", "Nisi Avenue 8", "Nisi Avenue 7", "Nisi Avenue 6", "Nisi Avenue 5", "Nisi Avenue 4", "Nisi Avenue 3", "Nisi Avenue 2", "Nisi Avenue 1", "Agias Theklas 1", "Agias Theklas 2", "Agias Theklas 3 (Waterpark)", "Agias Theklas 4", "Agias Theklas 5", "Agias Theklas 6", "Agias Theklas 7", "Mixali Braximi", "Eleftherias", "Panagias", "Alexander The Great Avenue", "Anastasi Manoli", "Anexartisias", "Dimokratias", "Dimitraki Xristodoulou", "Vattenas Street", "Eirinis", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou Avenue 11", "Ammochostou avenue 10", "Ammochostou avenue 9", "Ammochostou avenue 8", "Ammochostou avenue 7", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 1", "Tasou Papdopoulou Avenue 2", "Archbishop Makariou C' Avenue 1", "Agias Elenis- Old Larnaca Hospital"]
+    },
+    "712": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=208",
+        "stops": ["Archbishop Makarios", "Foti Pitta 1", "Foti Pitta 2", "Frenaros", "Apostolou Varnava ", "Kwsta Hlia 2", "Kwsta Hlia 1", "Axeritou", "Vrisoulles - Strovilia", "Strovilia", "Strovilia", "Vrisoulles - Strovilia", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou Avenue 11", "Ammochostou avenue 10", "Ammochostou avenue 9", "Ammochostou avenue 8", "Ammochostou avenue 7", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 2", "Tasou Papdopoulou Avenue 1", "Archbishop Makariou C' Avenue 1", "Agias Elenis- Old Larnaca Hospital"]
+    },
+    "714": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=210",
+        "stops": ["Saint George - Central Station", "Griva Digeni 1", "Griva Digeni 2", "Eleftherias", "Archbishop Makarios C 1", "Archbishop Makarios C 2", "Stadiou 1", "Stadiou 2", "Ammochostou", "Kiriakou Matsi 2", "Kiriakou Matsi 1", "Apostolou Andrea ", "Agias Theklas", "1st April", "Andrea Kkolou", "Mixali Koutsofta", "EAC Dekelia 2", "EAC Dekellias", "Larnacas - Dhekelias Avenue", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Acropoleos Avenue 3", "Acropoleos Avenue 2", "Acropoleos Avenue 1", "Ammochostou Avenue 11", "Ammochostou avenue 10", "Ammochostou avenue 9", "Ammochostou avenue 8", "Ammochostou avenue 7", "Ammochostou Avenue 6", "Ammochostou Avenue 5", "Ammochostou avenue 4", "Ammochostou Avenue 1", "Tasou Papdopoulou Avenue 2", "Tasou Papdopoulou Avenue 1", "Archbishop Makariou C' Avenue 1", "Agias Elenis- Old Larnaca Hospital"]
+    },
+    "9 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=243",
+        "stops": ["Ilias - Sinikismos Agias Fylas", "Aristagorou", "Arsous", "Ptolemaidos", "Edessas", "Roman Rolan", "Arsous", "Kalopsidas", "Ilias - Sinikismos Agias Fylas, Commercial Centre", "Ilias - Sinikismos Agias Fylas", "Kanakarias - Stop 1", "Kanakarias - Elementary School", "Kanakarias - Stop 3", "1st April - Stop 3", "1st April - Stop 2", "1st April - Stop 1", "Mediterranean Hospital of Cyprus", "Agias Fylaxeos - E&amp;S Supermarket", "Akanthous - Sinikismos Kapsalou", "Rizokarpasou - Sinikismos Kapsalou", "Sofias Vempo - Sinikismos Kapsalou, Commercial Ce", "Ierou Lochou - Chrysovalantou clinic", "Agias Fylaxeos - CXC", "Agias Fylaxeos - Stop 2", "Agias Filaxeos - Stop 3", "Agias Fylaxeos - Lyceum Petrou &amp; Pavlou", "Agias Fylaxeos - Lanition", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Leontiou - EMEL Central Station"]
+    },
+    "16 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=25",
+        "stops": ["Episkopiana Hotel", "Kremastis rodou", "Stadiou", "Apollonos Elementary School", "Museum", "Kouriou", "1st Street", "9th Street", "18th Street", "14th Street - Stop 3", "14th Street - Stop 2", "14th Street - Stop 1", "Erimi - Stop 2", "Erimi - Stop 1", "Makariou - Village Centre", "Ellados - Stop 3", "Ellados - Stop 2", "Gallias - Aphrodite Club", "Makariou - Village Centre", "Apostolou Louka - Kolossi Elementary School", "Apostolou Louka - Stop 2", "Apostolou Louka - Stadium", "Agiou Georgiou", "Agiou Georgiou - Stop 3", "Agiou Georgiou - Stop 2", "Agiou Georgiou - Agiou Georgiou Church Ipsonas", "Elia Kannaourou - EKO", "Elia Kannaourou - Stop 2", "Elia Kannaourou - SEDIGEP", "Pafou - DIY Ellinas", "Pafou - Vikentia", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Ioanni Tsirou - Post Office", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "16 B": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=215",
+        "stops": ["Agios Ermogenis", "18th Street", "9th Street", "1st Street", "Makariou", "Nikou Georgiou", "Mykinon", "7th Street", "6th Street - Episkopi Police Station", "14th Street - Stop 2", "14th Street - Stop 1", "Erimi - Stop 2", "Erimi - Stop 1", "Apostolou Louka - Kolossi Elementary School", "Apostolou Louka - Stop 2", "Apostolou Louka - Stadium", "Agiou Georgiou", "Agiou Georgiou - Stop 3", "Agiou Georgiou - Stop 2", "Agiou Georgiou - Agiou Georgiou Church Ipsonas", "Elia Kannaourou - EKO", "Elia Kannaourou - Stop 2", "Elia Kannaourou - SEDIGEP", "Pafou - DIY Ellinas", "Pafou - Vikentia", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Ioanni Tsirou - Post Office", "Dodekanisou - Katholikis Gymnasium", "Dodekanisou - Limassol Clinic", "Leontiou - EMEL Central Station"]
+    },
+    "19 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=51",
+        "stops": ["Akrotiri - Village Centre", "Akrotiri - Stop 1", "Fasouri", "Asomatos - Coffee shop", "Asomatos - Stop 2", "Ellados", "Eleftherias", "Pentadaktylou", "Dimokratias", "Lefconikou", "Morfou - Trachoni Elementary School", "Ammochostou", "Makariou C' - Sillogos Laikes Organosis", "Agiou Mamantos - Stop 1", "Agiou Mamantos - Agiou Mamantos Church Trachoni", "Morfou", "Griva Digeni - Stop 1", "Griva Digeni - Stop 2", "Konstantinou &amp; Evripidou", "Franklin Roosevelt", "Franklin Roosevelt - Zakaki Elementary School", "Franklin Roosevelt - AEZ", "Franklin Roosevelt - Stop 4", "Franklin Roosevelt - Dimosia Erga", "Franklin Roosvelt - Sikopetritis", "Franklin Roosevelt - Stop 7", "Dimokratias - Social Security", "Dimokratias - Stop 2", "Dimokratias - Stop 3", "Misiaouli &amp; Kavazoglou - ESSO", "Misiaouli &amp; Kavazoglou - Pefkos Hotel", "Misiaouli &amp; Kavazoglou - Polikatikies", "Yildiz - Turkish Hospital", "Navarinou", "Leontiou - EMEL Central Station"]
+    },
+    "Zanatzia - Sotira - Kantou": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=225",
+        "stops": ["Kantou", "Sotira", "Zanatzia"]
+    },
+    "Ag. Amvrosios - Ag. Therapon - Lofou": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=226",
+        "stops": ["Ag. Amvrosios", "Ag. Therapon", "Lofou"]
+    },
+    "Malia, Arsos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=227",
+        "stops": ["Malia", "Arsos"]
+    },
+    "Ag. Amvrosios - Vouni": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=228",
+        "stops": ["Ag. Amvrosios", "Vouni"]
+    },
+    "Malia, Ag. Nikolas": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=229",
+        "stops": ["Malia", "Ag.Nikolas"]
+    },
+    "Malia, Dora": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=230",
+        "stops": ["Malia", "Dora"]
+    },
+    "Malia, Vasa Kilaniou": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=231",
+        "stops": ["Malia", "Vasa Koilaniou"]
+    },
+    "Malia, Potamiou": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=232",
+        "stops": ["Malia", "Potamiou"]
+    },
+    "Paramitha - Spitali - Fasoula": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=235",
+        "stops": ["Fasoula", "Spitali", "Paramitha"]
+    },
+    "Gerasa - Apsiou": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=236",
+        "stops": ["Apsiou", "Gerasa"]
+    },
+    "Kalo Chorio - Louvaras": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=237",
+        "stops": ["Louvaras", "Kalo Chorio"]
+    },
+    "Kalo Chorio - Agios Pavlos - Agios Constantinos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=244",
+        "stops": ["Ag. Constantinos", "Ag. Pavlos", "Kalo Chorio"]
+    },
+    "Kalo Chorio - Zoopigi": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=245",
+        "stops": ["Zoopigi", "Kalo Chorio"]
+    },
+    "Agros - Agridia": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=242",
+        "stops": ["Agridia", "Agros - Rodon Hotel"]
+    },
+    "Kato Milos - Potamitissa - Dimes": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=240",
+        "stops": ["Dimes", "Potamitissa", "Kato Milos"]
+    },
+    "Ag. Ioannis Agrou - Ag. Theodoros": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=241",
+        "stops": ["Ag. Theodoros", "Ag. Ioannis Agrou"]
+    },
+    "Lania - Doros - Monagri - Ag. Georgios - Silikou - Kouka": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=257",
+        "stops": ["Kouka", "Silikou", "Ag. Georgios", "Monagri", "Lania"]
+    },
+    "80 ": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=275",
+        "stops": ["Melini square", "Eptagonia"]
+    },
+    "90 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=267",
+        "stops": ["Pentakomo", "Moni", "Pyrgos", "Spyrou Kyprianou - Lanitis Eurohouse", "Spyrou Kyprianou - EKO", "Spyrou Kyprianou - Columbia", "Kolonakiou - Health Centre", "Kolonakiou - Klappis", "Kolonakiou - Linopetra Gymnasium", "Griva Digeni - Rialas", "Griva Digeni - Krisfigeto Griva Digeni", "Griva Digeni - Agios Nikolaos Church", "Griva Digeni - Maximos Court", "Archbishop Makariou C' - Eftapato", "Archbishop Makariou C' - Costa Cafe", "Archbishop Makariou C' - Lanition Stop 1", "Archbishop Makariou C' - Lanition Stop 2", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Leontiou - EMEL Central Station"]
+    },
+    "95 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=269",
+        "stops": ["Spyrou Araouzou - Old Harbour", "Spyrou Araouzou - Agia Napa Church", "Christodoulou Hadjipavlou - Emporiki Bank", "Christodoulou Hadjipavlou - Panagia Katholiki Chur", "28th October - G.S.O.", "28th October - Public Gallery", "28th October - Olympic Residences", "28th October - Debenhams Olympia", "28th October - Crowne Plaza", "28th October - Kean", "Georgiou A'- Pizza Hut", "Georgiou A' - Park Beach Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Azur Hotel", "Georgiou A' - Apollonia Hotel", "Amathountos - Londa Hotel", "Amathountos - McDonald's", "Amathountos - High Chaparal", "Amathountos - Aquarius Hotel", "Amathountos - Marathon Hotel", "Amathountos - Istioploiko Kentro", "Amathountos - Navarria Hotel", "Amathountos - Ohthos", "Amathountos - Four Seasons Hotel", "Amathountos - Mediterranean Hotel", "Amathountos - Amathus Hotel", "Amathountos - Amathountos Heritage", "Amathountos - Agia Varvara Church", "Amathountos - Atlantica Bay Hotel", "Amathountos - Elias Hotel", "Amathountos - Le Meridien - Stop 2", "Governors Beach"]
+    },
+    "CENTRAL": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=44",
+        "stops": ["Leontiou - EMEL Central Station", "Navarinou", "Bagiazit", "Fersi Pasa", "Spyrou Araouzou - Old Harbour", "Koumandarias str. - ZAKO", "Archiepiskopou Kyprianou", "Kitiou Kyprianou - Stop 1", "Kitiou Kyprianou - Paradise House", "Andrea Themistokleous - Municipal Market", "Gladstonos - Pentadromos", "Enoseos - Katholiki Church", "Leontiou - EMEL Central Station"]
+    },
+    "N16 A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=49",
+        "stops": ["18th Street", "9th Street", "1st Street", "Makariou", "Nikou Georgiou", "Mykinon", "7th Street", "6th Street - Episkopi Police Station", "14th Street - Stop 2", "14th Street - Stop 1", "Nikou Georgiou - Sillogos Kouris", "Apostolou Louka - Kolossi Elementary School", "Apostolou Louka - Stop 2", "Apostolou Louka - Stadium", "Agiou Georgiou", "Agiou Georgiou - Stop 3", "Agiou Georgiou - Stop 2", "Agiou Georgiou - Agiou Georgiou Church Ipsonas", "Elia Kannaourou - EKO", "Elia Kannaourou - Stop 2", "Elia Kannaourou - SEDIGEP", "Pafou - DIY Ellinas", "Pafou - Vikentia", "Pafou - Nissan", "Pafou - Carrefour", "Pafou - Toyota", "Pafou - Peugeot", "Pafou - Galatariotis", "Pafou - Efstathios Kyriakou", "Archbishop Makariou C' - Agiou Ioannis Police Station", "Archbishop Makariou C' - Souez", "Archbishop Makariou C' - Simillides", "Archbishop Makariou C' - FireBrigate Station", "Makariou C' - Debenhams Apollon", "Makariou C' - Pizza Hut", "Agias Fylaxeos - Intercollege", "Agias Filaxeos - Tamieftirio PASYDY", "Agias Filaxeos - KPMG", "Gladstonos - Tziamouda", "Gladstonos - Pentadromos", "Gladstonos - B' Elementary School", "Gladstonos - Neon Phaliron", "Griva Digeni - Kalogries", "Archbishop Makariou C' - Esperia Estates", "Makariou C' - Enaerios", "28th October - Olympic Residences", "28th October - Debenhams Olympia", "28th October - Crowne Plaza", "28th October - Kean", "Georgiou A'- Pizza Hut", "Georgiou A' - Park Beach Hotel", "Georgiou A' - Moniatis", "Georgiou A' - Azur Hotel", "Georgiou A' - Apollonia Hotel", "Amathountos - Londa Hotel", "Amathountos - McDonald's", "Amathountos - High Chaparal", "Ariadnis - Stop 1", "KCineplex"]
+    },
+    "Intercity Larnaca - Limassol": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=188",
+        "stops": ["Finikoudes Bus Stop", "Agias Elenis- Old Larnaca Hospital", "Xidias Bus Stop", "Chirokitia", "Amathountos - St. Rafael Hotel", "Georgiou A' - Park Beach Hotel", "28th October - Debenhams Olympia", "Spyrou Araouzou - Agia Napa Church", "Franklin Roosevelt - Social Security", "Limassol Port"]
+    },
+    "Intercity Limassol - Paphos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=189",
+        "stops": ["Limassol Port", "Franklin Roosevelt - Social Security", "Spyrou Araouzou - Old Harbour", "Leontiou - EMEL Central Station", "Agios Georgios Havouzas Church", "Dodekanisou-Dimokratias Crossroads", "Demokratias Avenue 1", "Athinon 3 avenue", "N.Nikolaide 2", "Karavella Station"]
+    },
+    "Intercity Nicosia - Limassol ": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=184",
+        "stops": ["Dionisiou Solomou Square", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 1", "Limassol Avenue 1", "Nicosia General Hospital", "Chirokitia", "Amathountos - St. Rafael Hotel", "Georgiou A' - Park Beach Hotel", "28th October - Debenhams Olympia", "Spyrou Araouzou - Old Harbour", "Spyrou Araouzou - Agia Napa Church", "Franklin Roosevelt - Social Security", "Limassol Port"]
+    },
+    "Limassol Airport Express (Larnaca)": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=163",
+        "stops": ["Agios Georgios Havouzas Church", "Amathountos - Grand Resort", "Larnaca Airport"]
+    },
+    "Limassol Airport Express (Paphos)": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=239",
+        "stops": ["Paphos Airport", "Agios Georgios Havouzas Church"]
+    },
+    "603 B": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=249",
+        "stops": ["Kato Paphos station", "Ledas 1", "Ledas 1", "Poseidonos 1", "Iasonos 2", "Ikarou 2", "Agapinoros 6", "Agapinoros 3", "Agapinoros 4", "Priamou 4", "Priamou 5", "Sotiraki Markide 2", "Nikou Nikolaide 2", "G. X. Ioannide Str. 2", "Taxiarchon 3", "Taxiarchon 4", "Christodoulou Sozou 3", "Christodoulou Sozou 4", "A.Papagou 3", "A.Papagou 2", "A.Papagou 1"]
+    },
+    "643A": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=161",
+        "stops": ["Pachyammos", "Paxiammos 1", "Pomos 3", "Pomos 4", "Pomos 5", "Nea Dimmata", "Ag Marina Chrysoxou 6", "Ag Marina Chrysoxou 7", "Ag Marina Chrysoxou 8", "Ag Marina Chrysoxou 9", "Gialia 1", "Argaka 12", "Argaka 13", "Argaka 14", "Argaka 15", "Argaka 16", "Poli Chrysoxou 4", "Poli Chrysoxou 5", "Polis Chrysoxous"]
+    },
+    "643B": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=162",
+        "stops": ["Pachyammos", "Paxiammos 1", "Pomos 3", "Pomos 4", "Pomos 5", "Nea Dimmata", "Ag Marina Chrysoxou 6", "Ag Marina Chrysoxou 7", "Ag Marina Chrysoxou 8", "Ag Marina Chrysoxou 9", "Gialia 1", "Argaka 12", "Argaka 13", "Argaka 14", "Argaka 4", "0", "0", "Argaka Elementary School", "0", "0", "0", "Argaka 15", "Argaka 16", "Poli Chrysoxou 4", "Poli Chrysoxou 5", "Polis Chrysoxous"]
+    },
+    "Intercity Famagusta - Larnaca - Paphos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=253",
+        "stops": ["Saint George - Central Station", "Protara 2", "Ayia Napa Square", "Finikoudes Bus Stop", "Dodekanisou-Dimokratias Crossroads", "Kato Paphos station", "Ap Pavlou 9", "Karavella Station"]
+    },
+    "Intercity Nicosia - Paphos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=185",
+        "stops": ["Dionisiou Solomou Square", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 1", "Limassol Avenue 1", "Nicosia General Hospital", "Dodekanisou-Dimokratias Crossroads", "Demokratias Avenue 1", "Athinon 3 avenue", "N.Nikolaide 2", "Karavella Station"]
+    },
+    "Kapnos Airports Shuttle": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=282",
+        "stops": ["Larnaca Airport", "Paphos Airport"]
+    },
+    "Intercity Nicosia - Famagusta": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=186",
+        "stops": ["Dionisiou Solomou Square", "Archbishop Makariou C' Avenue 6", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 1", "Limassol Avenue 1", "Nicosia General Hospital", "Agias Theklas 3 (Waterpark)", "Nisi Avenue 1", "Nisi Avenue 7", "Ayia Napa Square", "Marina Hotel", "Saint George - Central Station"]
+    },
+    "Intercity Nicosia - Larnaca": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=190",
+        "stops": ["Finikoudes Bus Stop", "Agias Elenis- Old Larnaca Hospital", "Georgiou Griva Digeni Avenue 2", "Agios Georgios Church", "Eleutherias Avenue 1", "Acropoleos Avenue 1", "Nicosia General Hospital", "Limassol Avenue 1", "Archbishop Makariou C' Avenue 1", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 6", "Dionisiou Solomou Square"]
+    },
+    "Kapnos Airport Shuttle Nicosia - Larnaca": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=168",
+        "stops": ["Kapnos airport shuttle station", "Larnaca Airport"]
+    },
+    "Kapnos Airport Shuttle Nicosia - Paphos ": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=251",
+        "stops": ["Kapnos airport shuttle station", "Paphos Airport"]
+    },
+    "408B": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=254",
+        "stops": ["Stathmos Kofinou", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 3 ", "Menogeia - Exit", "Archbishop Makariou C' Avenue 5", "Archbishop Makariou C' Avenue 4", "Archbishop Makariou C' Avenue 3 ", "Archbishop Makariou C' Avenue 2", "Archbishop Makariou C' Avenue 1", "Agglisides- Alethriko", "Anexartisias Avenue 1", "Anexartisias Avenue 2", "Anexartisias Avenue 3", "Limassol Avenue 1", "Limassol Avenue 2", "Limassol Avenue 3", "Limassol Avenue 4", "Limassol avenue 5", "G. Christodoulidi Avenue 1", "G. Christodoulidi Avenue 2", "Eleutherias Avenue 1", "Acropoleos Avenue 5", "Acropoleos Avenue 4", "Aradipou Police Station", "Ionias"]
+    },
+    "416\t ": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=252",
+        "stops": ["Kentriko Sfageio Kofinou", "Politiko Asilo", "Archbishop Makariou C' Avenue 2", "Stathmos Kofinou"]
+    },
+    "Intercity Larnaca - Famagusta": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=187",
+        "stops": ["Finikoudes Bus Stop", "Grigori Afxentiou - Police Station", "Ammochostou Avenue 1", "Oroklini Fire station", "Ammochostou Avenue 11", "Agias Theklas 3 (Waterpark)", "Nisi Avenue 1", "Nisi Avenue 7", "Ayia Napa Square", "Marina Hotel", "Saint George - Central Station"]
+    },
+    "Kapnos Airport Shuttle Larnaca - Paphos": {
+        "link": "http://www.cyprusbybus.com/RouteDetails.aspx?id=256",
+        "stops": ["Agiptou Avenue", "Paphos Airport"]
+    }
+}
